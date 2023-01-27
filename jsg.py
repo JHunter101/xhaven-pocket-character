@@ -61,15 +61,6 @@ with open(js_file, "w") as f:
 
 
 
-
-
-
-
-
-
-
-
-
 total_data = {}
 for root, dirs, files in os.walk(image_dir):
     image_data = []

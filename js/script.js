@@ -20,7 +20,7 @@ window.onload = function() {
 		const class_info = class_data[classCode];
 		const opt = document.createElement("option");
 		opt.value = class_info.code
-		opt.innerHTML = "[" + class_info.version + "]" + class_info.name + "(" + class_info.name + ")"
+		opt.innerHTML = "[" + class_info.version + "] " + class_info.name + " (" + class_info.name + ")"
 		opt.id =
 			document.getElementById("character-name").appendChild(opt);
 	}
