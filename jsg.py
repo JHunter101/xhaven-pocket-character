@@ -34,7 +34,9 @@ for card in character_ability_cards:
     owner = card['image'].split("/")[2]
     if owner not in new_character_ability_cards:
         new_character_ability_cards[owner] = []
-    new_character_ability_cards[owner].append(card)
+    
+    if not any(lCard['xws'] == card['xws'] for lCard in new_character_ability_cards[owner]):
+        new_character_ability_cards[owner].append(card)
 
 for char in new_character_ability_cards:
     new_character_ability_cards[char] = sorted(new_character_ability_cards[char], key=lambda d: d['cardno'], reverse=True) 
@@ -90,3 +92,4 @@ for root, dirs, files in os.walk(image_dir):
 js_file = os.path.join(js_dir, "image_ids.js")
 with open(js_file, "w") as f:
     f.write("var imageIds = " + json.dumps(total_data,indent=4) + ";")
+    

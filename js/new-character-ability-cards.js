@@ -625,16 +625,6 @@ var imageIds = {
             "cardno": "652"
         },
         {
-            "name": "rust vermin",
-            "points": 98,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-wasteland.png",
-            "xws": "wasteland",
-            "level": "9",
-            "initiative": "96",
-            "cardno": "652"
-        },
-        {
             "name": "endless biting",
             "points": 73,
             "expansion": "Gloomhaven",
@@ -667,16 +657,6 @@ var imageIds = {
         {
             "name": "fury of the horde",
             "points": 77,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-fury-of-the-horde.png",
-            "xws": "furyofthehorde",
-            "level": "7",
-            "initiative": "86",
-            "cardno": "648"
-        },
-        {
-            "name": "rage hornets",
-            "points": 78,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/BS/gh-fury-of-the-horde.png",
             "xws": "furyofthehorde",
@@ -725,16 +705,6 @@ var imageIds = {
             "cardno": "644"
         },
         {
-            "name": "lightning moths",
-            "points": 63,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-bioluminescence.png",
-            "xws": "bioluminescence",
-            "level": "5",
-            "initiative": "80",
-            "cardno": "644"
-        },
-        {
             "name": "incubation",
             "points": 81,
             "expansion": "Gloomhaven",
@@ -767,16 +737,6 @@ var imageIds = {
         {
             "name": "putrid grubs",
             "points": 86,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-putrid-grubs.png",
-            "xws": "putridgrubs",
-            "level": "3",
-            "initiative": "16",
-            "cardno": "640"
-        },
-        {
-            "name": "bloat maggots",
-            "points": 87,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/BS/gh-putrid-grubs.png",
             "xws": "putridgrubs",
@@ -835,16 +795,6 @@ var imageIds = {
             "cardno": "635"
         },
         {
-            "name": "steel scarabs",
-            "points": 95,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-unstoppable-army.png",
-            "xws": "unstoppablearmy",
-            "level": "X",
-            "initiative": "94",
-            "cardno": "635"
-        },
-        {
             "name": "the storm's edge",
             "points": 92,
             "expansion": "Gloomhaven",
@@ -895,16 +845,6 @@ var imageIds = {
             "cardno": "630"
         },
         {
-            "name": "angry wasps",
-            "points": 75,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-engulfing-stingers.png",
-            "xws": "engulfingstingers",
-            "level": "1",
-            "initiative": "88",
-            "cardno": "630"
-        },
-        {
             "name": "death march",
             "points": 70,
             "expansion": "Gloomhaven",
@@ -915,28 +855,8 @@ var imageIds = {
             "cardno": "629"
         },
         {
-            "name": "creeping beetles",
-            "points": 71,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-death-march.png",
-            "xws": "deathmarch",
-            "level": "1",
-            "initiative": "84",
-            "cardno": "629"
-        },
-        {
             "name": "corrupting parasites",
             "points": 67,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BS/gh-corrupting-parasites.png",
-            "xws": "corruptingparasites",
-            "level": "1",
-            "initiative": "97",
-            "cardno": "628"
-        },
-        {
-            "name": "soul leeches",
-            "points": 68,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/BS/gh-corrupting-parasites.png",
             "xws": "corruptingparasites",
@@ -1007,16 +927,6 @@ var imageIds = {
             "cardno": "505"
         },
         {
-            "name": "spirit banner",
-            "points": 131,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-tribal-sigil.png",
-            "xws": "tribalsigil",
-            "level": "9",
-            "initiative": "91",
-            "cardno": "505"
-        },
-        {
             "name": "jaws of death",
             "points": 113,
             "expansion": "Gloomhaven",
@@ -1067,16 +977,6 @@ var imageIds = {
             "cardno": "500"
         },
         {
-            "name": "wind totem",
-            "points": 129,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-storm-sigil.png",
-            "xws": "stormsigil",
-            "level": "7",
-            "initiative": "93",
-            "cardno": "500"
-        },
-        {
             "name": "blood hunger",
             "points": 103,
             "expansion": "Gloomhaven",
@@ -1099,16 +999,6 @@ var imageIds = {
         {
             "name": "stone sigil",
             "points": 126,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-stone-sigil.png",
-            "xws": "stonesigil",
-            "level": "5",
-            "initiative": "95",
-            "cardno": "497"
-        },
-        {
-            "name": "monolith",
-            "points": 127,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/BT/gh-stone-sigil.png",
             "xws": "stonesigil",
@@ -1167,16 +1057,6 @@ var imageIds = {
             "cardno": "492"
         },
         {
-            "name": "swamp alligator",
-            "points": 137,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-vicious-ally.png",
-            "xws": "viciousally",
-            "level": "3",
-            "initiative": "86",
-            "cardno": "492"
-        },
-        {
             "name": "earthen spikes",
             "points": 108,
             "expansion": "Gloomhaven",
@@ -1219,16 +1099,6 @@ var imageIds = {
         {
             "name": "soaring ally",
             "points": 123,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-soaring-ally.png",
-            "xws": "soaringally",
-            "level": "X",
-            "initiative": "77",
-            "cardno": "487"
-        },
-        {
-            "name": "red falcon",
-            "points": 124,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/BT/gh-soaring-ally.png",
             "xws": "soaringally",
@@ -1307,28 +1177,8 @@ var imageIds = {
             "cardno": "480"
         },
         {
-            "name": "tattered wolf",
-            "points": 122,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-relentless-ally.png",
-            "xws": "relentlessally",
-            "level": "1",
-            "initiative": "81",
-            "cardno": "480"
-        },
-        {
             "name": "venomous ally",
             "points": 134,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/BT/gh-venomous-ally.png",
-            "xws": "venomousally",
-            "level": "1",
-            "initiative": "79",
-            "cardno": "479"
-        },
-        {
-            "name": "green adder",
-            "points": 135,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/BT/gh-venomous-ally.png",
             "xws": "venomousally",
@@ -1721,16 +1571,6 @@ var imageIds = {
             "cardno": "405"
         },
         {
-            "name": "spitting cobra",
-            "points": 191,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/DS/gh-predator-and-prey.png",
-            "xws": "predatorandprey",
-            "level": "9",
-            "initiative": "86",
-            "cardno": "405"
-        },
-        {
             "name": "feral instincts",
             "points": 179,
             "expansion": "Gloomhaven",
@@ -1783,16 +1623,6 @@ var imageIds = {
         {
             "name": "nature's hunger",
             "points": 188,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/DS/gh-natures-hunger.png",
-            "xws": "natureshunger",
-            "level": "6",
-            "initiative": "82",
-            "cardno": "399"
-        },
-        {
-            "name": "giant toad",
-            "points": 189,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/DS/gh-natures-hunger.png",
             "xws": "natureshunger",
@@ -1901,16 +1731,6 @@ var imageIds = {
             "cardno": "389"
         },
         {
-            "name": "vicious jackal",
-            "points": 202,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/DS/gh-the-hunt-begins.png",
-            "xws": "thehuntbegins",
-            "level": "X",
-            "initiative": "71",
-            "cardno": "389"
-        },
-        {
             "name": "sap life",
             "points": 197,
             "expansion": "Gloomhaven",
@@ -2011,28 +1831,8 @@ var imageIds = {
             "cardno": "379"
         },
         {
-            "name": "battle boar",
-            "points": 204,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/DS/gh-vital-charge.png",
-            "xws": "vitalcharge",
-            "level": "1",
-            "initiative": "78",
-            "cardno": "379"
-        },
-        {
             "name": "felling swoop",
             "points": 177,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/DS/gh-felling-swoop.png",
-            "xws": "fellingswoop",
-            "level": "1",
-            "initiative": "75",
-            "cardno": "378"
-        },
-        {
-            "name": "war hawk",
-            "points": 178,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/DS/gh-felling-swoop.png",
             "xws": "fellingswoop",
@@ -2093,16 +1893,6 @@ var imageIds = {
             "cardno": "474"
         },
         {
-            "name": "mana sphere",
-            "points": 216,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/EL/gh-ethereal-manifestation.png",
-            "xws": "etherealmanifestation",
-            "level": "9",
-            "initiative": "98",
-            "cardno": "474"
-        },
-        {
             "name": "elemental aegis",
             "points": 212,
             "expansion": "Gloomhaven",
@@ -2145,16 +1935,6 @@ var imageIds = {
         {
             "name": "simulacrum",
             "points": 231,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/EL/gh-simulacrum.png",
-            "xws": "simulacrum",
-            "level": "6",
-            "initiative": "94",
-            "cardno": "469"
-        },
-        {
-            "name": "doppelganger",
-            "points": 232,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/EL/gh-simulacrum.png",
             "xws": "simulacrum",
@@ -2415,16 +2195,6 @@ var imageIds = {
             "cardno": "173"
         },
         {
-            "name": "rat king",
-            "points": 254,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/MT/gh-many-as-one.png",
-            "xws": "manyasone",
-            "level": "9",
-            "initiative": "91",
-            "cardno": "173"
-        },
-        {
             "name": "domination",
             "points": 243,
             "expansion": "Gloomhaven",
@@ -2565,16 +2335,6 @@ var imageIds = {
             "cardno": "159"
         },
         {
-            "name": "monstrous rat",
-            "points": 270,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/MT/gh-wretched-creature.png",
-            "xws": "wretchedcreature",
-            "level": "2",
-            "initiative": "84",
-            "cardno": "159"
-        },
-        {
             "name": "frigid apparition",
             "points": 247,
             "expansion": "Gloomhaven",
@@ -2657,16 +2417,6 @@ var imageIds = {
         {
             "name": "gnawing horde",
             "points": 249,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/MT/gh-gnawing-horde.png",
-            "xws": "gnawinghorde",
-            "level": "1",
-            "initiative": "82",
-            "cardno": "150"
-        },
-        {
-            "name": "rat swarm",
-            "points": 250,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/MT/gh-gnawing-horde.png",
             "xws": "gnawinghorde",
@@ -4851,16 +4601,6 @@ var imageIds = {
             "cardno": "260"
         },
         {
-            "name": "black unicorn",
-            "points": 496,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-horned-majesty.png",
-            "xws": "hornedmajesty",
-            "level": "9",
-            "initiative": "80",
-            "cardno": "260"
-        },
-        {
             "name": "interplanar mastery",
             "points": 498,
             "expansion": "Gloomhaven",
@@ -4911,16 +4651,6 @@ var imageIds = {
             "cardno": "255"
         },
         {
-            "name": "void eater",
-            "points": 508,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-negative-energy.png",
-            "xws": "negativeenergy",
-            "level": "7",
-            "initiative": "95",
-            "cardno": "255"
-        },
-        {
             "name": "inexorable momentum",
             "points": 497,
             "expansion": "Gloomhaven",
@@ -4941,28 +4671,8 @@ var imageIds = {
             "cardno": "253"
         },
         {
-            "name": "nail spheres",
-            "points": 490,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-endless-spikes.png",
-            "xws": "endlessspikes",
-            "level": "6",
-            "initiative": "97",
-            "cardno": "253"
-        },
-        {
             "name": "conjured aid",
             "points": 485,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-conjured-aid.png",
-            "xws": "conjuredaid",
-            "level": "5",
-            "initiative": "81",
-            "cardno": "252"
-        },
-        {
-            "name": "healing sprite",
-            "points": 486,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/SU/gh-conjured-aid.png",
             "xws": "conjuredaid",
@@ -5001,28 +4711,8 @@ var imageIds = {
             "cardno": "249"
         },
         {
-            "name": "rock colossus",
-            "points": 503,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-living-mountain.png",
-            "xws": "livingmountain",
-            "level": "4",
-            "initiative": "88",
-            "cardno": "249"
-        },
-        {
             "name": "oozing manifestation",
             "points": 509,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-oozing-manifestation.png",
-            "xws": "oozingmanifestation",
-            "level": "3",
-            "initiative": "86",
-            "cardno": "248"
-        },
-        {
-            "name": "slime spirit",
-            "points": 510,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/SU/gh-oozing-manifestation.png",
             "xws": "oozingmanifestation",
@@ -5081,28 +4771,8 @@ var imageIds = {
             "cardno": "243"
         },
         {
-            "name": "living bomb",
-            "points": 519,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-volatile-flame.png",
-            "xws": "volatileflame",
-            "level": "X",
-            "initiative": "94",
-            "cardno": "243"
-        },
-        {
             "name": "leathery wings",
             "points": 500,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-leathery-wings.png",
-            "xws": "leatherywings",
-            "level": "X",
-            "initiative": "90",
-            "cardno": "242"
-        },
-        {
-            "name": "bat swarm",
-            "points": 501,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/SU/gh-leathery-wings.png",
             "xws": "leatherywings",
@@ -5171,28 +4841,8 @@ var imageIds = {
             "cardno": "236"
         },
         {
-            "name": "lava golem",
-            "points": 516,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-unending-dominance.png",
-            "xws": "unendingdominance",
-            "level": "1",
-            "initiative": "98",
-            "cardno": "236"
-        },
-        {
             "name": "living night",
             "points": 504,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-living-night.png",
-            "xws": "livingnight",
-            "level": "1",
-            "initiative": "82",
-            "cardno": "235"
-        },
-        {
-            "name": "shadow wolves",
-            "points": 505,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/SU/gh-living-night.png",
             "xws": "livingnight",
@@ -5211,28 +4861,8 @@ var imageIds = {
             "cardno": "234"
         },
         {
-            "name": "thorn shooter",
-            "points": 521,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-wild-animation.png",
-            "xws": "wildanimation",
-            "level": "1",
-            "initiative": "92",
-            "cardno": "234"
-        },
-        {
             "name": "forged ferocity",
             "points": 492,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SU/gh-forged-ferocity.png",
-            "xws": "forgedferocity",
-            "level": "1",
-            "initiative": "96",
-            "cardno": "233"
-        },
-        {
-            "name": "iron beast",
-            "points": 493,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/SU/gh-forged-ferocity.png",
             "xws": "forgedferocity",
@@ -5333,16 +4963,6 @@ var imageIds = {
             "cardno": "080"
         },
         {
-            "name": "burning avatar",
-            "points": 544,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SW/gh-living-torch.png",
-            "xws": "livingtorch",
-            "level": "6",
-            "initiative": "96",
-            "cardno": "080"
-        },
-        {
             "name": "engulfed in flames",
             "points": 531,
             "expansion": "Gloomhaven",
@@ -5425,16 +5045,6 @@ var imageIds = {
         {
             "name": "aid from the ether",
             "points": 523,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/SW/gh-aid-from-the-ether.png",
-            "xws": "aidfromtheether",
-            "level": "X",
-            "initiative": "91",
-            "cardno": "071"
-        },
-        {
-            "name": "mystic ally",
-            "points": 524,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/SW/gh-aid-from-the-ether.png",
             "xws": "aidfromtheether",
@@ -5615,16 +5225,6 @@ var imageIds = {
             "cardno": "055"
         },
         {
-            "name": "kill bot",
-            "points": 574,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/TI/gh-murderous-contraption.png",
-            "xws": "murderouscontraption",
-            "level": "7",
-            "initiative": "94",
-            "cardno": "055"
-        },
-        {
             "name": "auto turret",
             "points": 553,
             "expansion": "Gloomhaven",
@@ -5677,16 +5277,6 @@ var imageIds = {
         {
             "name": "dangerous contraption",
             "points": 557,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/TI/gh-dangerous-contraption.png",
-            "xws": "dangerouscontraption",
-            "level": "4",
-            "initiative": "84",
-            "cardno": "049"
-        },
-        {
-            "name": "battle bot",
-            "points": 558,
             "expansion": "Gloomhaven",
             "image": "character-ability-cards/gloomhaven/TI/gh-dangerous-contraption.png",
             "xws": "dangerouscontraption",
@@ -5875,16 +5465,6 @@ var imageIds = {
             "cardno": "031"
         },
         {
-            "name": "decoy",
-            "points": 566,
-            "expansion": "Gloomhaven",
-            "image": "character-ability-cards/gloomhaven/TI/gh-harmless-contraption.png",
-            "xws": "harmlesscontraption",
-            "level": "1",
-            "initiative": "74",
-            "cardno": "031"
-        },
-        {
             "name": "proximity mine",
             "points": 578,
             "expansion": "Gloomhaven",
@@ -5909,16 +5489,6 @@ var imageIds = {
         {
             "name": "planar fissure",
             "points": 610,
-            "expansion": "Forgotten Circles",
-            "image": "character-ability-cards/forgotten-circles/DR/fc-planar-fissure.png",
-            "xws": "planarfissure",
-            "level": "9",
-            "initiative": "75",
-            "cardno": "601"
-        },
-        {
-            "name": "twilight archon",
-            "points": 611,
             "expansion": "Forgotten Circles",
             "image": "character-ability-cards/forgotten-circles/DR/fc-planar-fissure.png",
             "xws": "planarfissure",
@@ -6050,16 +5620,6 @@ var imageIds = {
             "name": "envision the course",
             "points": 602,
             "expansion": "Forgotten Circles",
-            "image": "character-ability-cards/forgotten-circles/DR/fc-envision-the-course.png",
-            "xws": "envisionthecourse",
-            "level": "3",
-            "initiative": "80",
-            "cardno": "588"
-        },
-        {
-            "name": "ghost falcons",
-            "points": 603,
-            "expansion": "Gloomhaven",
             "image": "character-ability-cards/forgotten-circles/DR/fc-envision-the-course.png",
             "xws": "envisionthecourse",
             "level": "3",
@@ -6541,16 +6101,6 @@ var imageIds = {
             "cardno": "088"
         },
         {
-            "name": "banner of doom",
-            "points": 682,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-take-no-prisoners.png",
-            "xws": "takenoprisoners",
-            "level": "9",
-            "initiative": "85",
-            "cardno": "088"
-        },
-        {
             "name": "taunting howl",
             "points": 683,
             "expansion": "Frosthaven",
@@ -6573,16 +6123,6 @@ var imageIds = {
         {
             "name": "lead from afar",
             "points": 668,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-lead-from-afar.png",
-            "xws": "leadfromafar",
-            "level": "7",
-            "initiative": "80",
-            "cardno": "085"
-        },
-        {
-            "name": "longbowman",
-            "points": 669,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BN/fh-lead-from-afar.png",
             "xws": "leadfromafar",
@@ -6621,16 +6161,6 @@ var imageIds = {
             "cardno": "082"
         },
         {
-            "name": "banner of valor",
-            "points": 654,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-barricade.png",
-            "xws": "barricade",
-            "level": "6",
-            "initiative": "16",
-            "cardno": "082"
-        },
-        {
             "name": "hold the line",
             "points": 664,
             "expansion": "Frosthaven",
@@ -6653,16 +6183,6 @@ var imageIds = {
         {
             "name": "air support",
             "points": 649,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-air-support.png",
-            "xws": "airsupport",
-            "level": "4",
-            "initiative": "20",
-            "cardno": "079"
-        },
-        {
-            "name": "trained falcon",
-            "points": 650,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BN/fh-air-support.png",
             "xws": "airsupport",
@@ -6701,16 +6221,6 @@ var imageIds = {
             "cardno": "076"
         },
         {
-            "name": "banner of courage",
-            "points": 671,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-let-them-come.png",
-            "xws": "letthemcome",
-            "level": "3",
-            "initiative": "24",
-            "cardno": "076"
-        },
-        {
             "name": "pinning charge",
             "points": 674,
             "expansion": "Frosthaven",
@@ -6741,28 +6251,8 @@ var imageIds = {
             "cardno": "073"
         },
         {
-            "name": "banner of hope",
-            "points": 660,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-driving-inspiration.png",
-            "xws": "drivinginspiration",
-            "level": "X",
-            "initiative": "18",
-            "cardno": "073"
-        },
-        {
             "name": "incendiary throw",
             "points": 665,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-incendiary-throw.png",
-            "xws": "incendiarythrow",
-            "level": "X",
-            "initiative": "22",
-            "cardno": "072"
-        },
-        {
-            "name": "torch bearer",
-            "points": 666,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BN/fh-incendiary-throw.png",
             "xws": "incendiarythrow",
@@ -6871,28 +6361,8 @@ var imageIds = {
             "cardno": "062"
         },
         {
-            "name": "banner of strength",
-            "points": 676,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-rallying-cry.png",
-            "xws": "rallyingcry",
-            "level": "1",
-            "initiative": "71",
-            "cardno": "062"
-        },
-        {
             "name": "at all costs",
             "points": 651,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BN/fh-at-all-costs.png",
-            "xws": "atallcosts",
-            "level": "1",
-            "initiative": "60",
-            "cardno": "061"
-        },
-        {
-            "name": "reinforcement",
-            "points": 652,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BN/fh-at-all-costs.png",
             "xws": "atallcosts",
@@ -6933,16 +6403,6 @@ var imageIds = {
             "cardno": "149"
         },
         {
-            "name": "skeleton sorcerer",
-            "points": 726,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-unholy-prowess.png",
-            "xws": "unholyprowess",
-            "level": "9",
-            "initiative": "97",
-            "cardno": "149"
-        },
-        {
             "name": "wailing from beyond",
             "points": 727,
             "expansion": "Frosthaven",
@@ -6955,16 +6415,6 @@ var imageIds = {
         {
             "name": "endless numbers",
             "points": 699,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-endless-numbers.png",
-            "xws": "endlessnumbers",
-            "level": "8",
-            "initiative": "86",
-            "cardno": "147"
-        },
-        {
-            "name": "bone horde",
-            "points": 700,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BO/fh-endless-numbers.png",
             "xws": "endlessnumbers",
@@ -7013,16 +6463,6 @@ var imageIds = {
             "cardno": "143"
         },
         {
-            "name": "two shambling skeletons",
-            "points": 716,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-rotting-multitude.png",
-            "xws": "rottingmultitude",
-            "level": "6",
-            "initiative": "66",
-            "cardno": "143"
-        },
-        {
             "name": "solid bones",
             "points": 717,
             "expansion": "Frosthaven",
@@ -7035,16 +6475,6 @@ var imageIds = {
         {
             "name": "unforgivable methods",
             "points": 723,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-unforgivable-methods.png",
-            "xws": "unforgivablemethods",
-            "level": "5",
-            "initiative": "98",
-            "cardno": "141"
-        },
-        {
-            "name": "stitched atrocity",
-            "points": 724,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BO/fh-unforgivable-methods.png",
             "xws": "unforgivablemethods",
@@ -7093,16 +6523,6 @@ var imageIds = {
             "cardno": "137"
         },
         {
-            "name": "shambling skeleton",
-            "points": 707,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-grave-digging.png",
-            "xws": "gravedigging",
-            "level": "3",
-            "initiative": "96",
-            "cardno": "137"
-        },
-        {
             "name": "bone dagger",
             "points": 692,
             "expansion": "Frosthaven",
@@ -7115,16 +6535,6 @@ var imageIds = {
         {
             "name": "unearthed horror",
             "points": 721,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-unearthed-horror.png",
-            "xws": "unearthedhorror",
-            "level": "2",
-            "initiative": "94",
-            "cardno": "135"
-        },
-        {
-            "name": "raging corpse",
-            "points": 722,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BO/fh-unearthed-horror.png",
             "xws": "unearthedhorror",
@@ -7223,16 +6633,6 @@ var imageIds = {
             "cardno": "126"
         },
         {
-            "name": "wraith",
-            "points": 689,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-angry-spirits.png",
-            "xws": "angryspirits",
-            "level": "1",
-            "initiative": "76",
-            "cardno": "126"
-        },
-        {
             "name": "dark tidings",
             "points": 697,
             "expansion": "Frosthaven",
@@ -7273,16 +6673,6 @@ var imageIds = {
             "cardno": "122"
         },
         {
-            "name": "shambling skeleton",
-            "points": 696,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-damned-horde.png",
-            "xws": "damnedhorde",
-            "level": "1",
-            "initiative": "71",
-            "cardno": "122"
-        },
-        {
             "name": "returned servant",
             "points": 713,
             "expansion": "Frosthaven",
@@ -7293,28 +6683,8 @@ var imageIds = {
             "cardno": "121"
         },
         {
-            "name": "shambling skeleton",
-            "points": 714,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-returned-servant.png",
-            "xws": "returnedservant",
-            "level": "1",
-            "initiative": "81",
-            "cardno": "121"
-        },
-        {
             "name": "life in death",
             "points": 708,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/BO/fh-life-in-death.png",
-            "xws": "lifeindeath",
-            "level": "1",
-            "initiative": "91",
-            "cardno": "120"
-        },
-        {
-            "name": "shambling skeleton",
-            "points": 709,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/BO/fh-life-in-death.png",
             "xws": "lifeindeath",
@@ -8361,16 +7731,6 @@ var imageIds = {
             "cardno": "112"
         },
         {
-            "name": "shadow horror",
-            "points": 852,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/DW/fh-the-night-takes-shape.png",
-            "xws": "thenighttakesshape",
-            "level": "6",
-            "initiative": "94",
-            "cardno": "112"
-        },
-        {
             "name": "dominate",
             "points": 832,
             "expansion": "Frosthaven",
@@ -8563,16 +7923,6 @@ var imageIds = {
         {
             "name": "sunless apparition",
             "points": 849,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/DW/fh-sunless-apparition.png",
-            "xws": "sunlessapparition",
-            "level": "1",
-            "initiative": "96",
-            "cardno": "092"
-        },
-        {
-            "name": "shadow beast",
-            "points": 850,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/DW/fh-sunless-apparition.png",
             "xws": "sunlessapparition",
@@ -9267,16 +8617,6 @@ var imageIds = {
             "cardno": "415"
         },
         {
-            "name": "sledge driver",
-            "points": 932,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-heavy-metal.png",
-            "xws": "heavymetal",
-            "level": "9",
-            "initiative": "76",
-            "cardno": "415"
-        },
-        {
             "name": "burning slash",
             "points": 922,
             "expansion": "Frosthaven",
@@ -9289,16 +8629,6 @@ var imageIds = {
         {
             "name": "swarming bulwark",
             "points": 961,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-swarming-bulwark.png",
-            "xws": "swarmingbulwark",
-            "level": "8",
-            "initiative": "96",
-            "cardno": "413"
-        },
-        {
-            "name": "shield spider",
-            "points": 962,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-swarming-bulwark.png",
             "xws": "swarmingbulwark",
@@ -9327,16 +8657,6 @@ var imageIds = {
             "cardno": "411"
         },
         {
-            "name": "bombardier",
-            "points": 941,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-mortar-shells.png",
-            "xws": "mortarshells",
-            "level": "7",
-            "initiative": "85",
-            "cardno": "411"
-        },
-        {
             "name": "triage program",
             "points": 963,
             "expansion": "Frosthaven",
@@ -9349,16 +8669,6 @@ var imageIds = {
         {
             "name": "spinning blades",
             "points": 959,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-spinning-blades.png",
-            "xws": "spinningblades",
-            "level": "6",
-            "initiative": "79",
-            "cardno": "409"
-        },
-        {
-            "name": "sword propeller",
-            "points": 960,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-spinning-blades.png",
             "xws": "spinningblades",
@@ -9387,16 +8697,6 @@ var imageIds = {
             "cardno": "407"
         },
         {
-            "name": "trapping unit",
-            "points": 943,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-net-dispersal.png",
-            "xws": "netdispersal",
-            "level": "5",
-            "initiative": "94",
-            "cardno": "407"
-        },
-        {
             "name": "divergent destruction",
             "points": 927,
             "expansion": "Frosthaven",
@@ -9409,16 +8709,6 @@ var imageIds = {
         {
             "name": "plague protocol",
             "points": 944,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-plague-protocol.png",
-            "xws": "plagueprotocol",
-            "level": "4",
-            "initiative": "98",
-            "cardno": "405"
-        },
-        {
-            "name": "toxin distributor",
-            "points": 945,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-plague-protocol.png",
             "xws": "plagueprotocol",
@@ -9447,16 +8737,6 @@ var imageIds = {
             "cardno": "403"
         },
         {
-            "name": "machine bolter",
-            "points": 950,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-rapid-fire.png",
-            "xws": "rapidfire",
-            "level": "3",
-            "initiative": "92",
-            "cardno": "403"
-        },
-        {
             "name": "long-range missile",
             "points": 939,
             "expansion": "Frosthaven",
@@ -9469,16 +8749,6 @@ var imageIds = {
         {
             "name": "force field",
             "points": 929,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-force-field.png",
-            "xws": "forcefield",
-            "level": "2",
-            "initiative": "78",
-            "cardno": "401"
-        },
-        {
-            "name": "dampening unit",
-            "points": 930,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-force-field.png",
             "xws": "forcefield",
@@ -9509,16 +8779,6 @@ var imageIds = {
         {
             "name": "shocking pulse",
             "points": 957,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-shocking-pulse.png",
-            "xws": "shockingpulse",
-            "level": "X",
-            "initiative": "86",
-            "cardno": "398"
-        },
-        {
-            "name": "arcing generator",
-            "points": 958,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-shocking-pulse.png",
             "xws": "shockingpulse",
@@ -9597,28 +8857,8 @@ var imageIds = {
             "cardno": "391"
         },
         {
-            "name": "sniper turret",
-            "points": 921,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-aimed-assault.png",
-            "xws": "aimedassault",
-            "level": "1",
-            "initiative": "88",
-            "cardno": "391"
-        },
-        {
             "name": "coiled limbs",
             "points": 924,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-coiled-limbs.png",
-            "xws": "coiledlimbs",
-            "level": "1",
-            "initiative": "82",
-            "cardno": "390"
-        },
-        {
-            "name": "leaper",
-            "points": 925,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-coiled-limbs.png",
             "xws": "coiledlimbs",
@@ -9637,16 +8877,6 @@ var imageIds = {
             "cardno": "389"
         },
         {
-            "name": "jackal mech",
-            "points": 936,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-hunter-killer.png",
-            "xws": "hunterkiller",
-            "level": "1",
-            "initiative": "84",
-            "cardno": "389"
-        },
-        {
             "name": "reconstructive aid",
             "points": 954,
             "expansion": "Frosthaven",
@@ -9657,28 +8887,8 @@ var imageIds = {
             "cardno": "388"
         },
         {
-            "name": "repair drone",
-            "points": 955,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-reconstructive-aid.png",
-            "xws": "reconstructiveaid",
-            "level": "1",
-            "initiative": "90",
-            "cardno": "388"
-        },
-        {
             "name": "plated defense",
             "points": 946,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/HV/fh-plated-defense.png",
-            "xws": "plateddefense",
-            "level": "1",
-            "initiative": "80",
-            "cardno": "387"
-        },
-        {
-            "name": "armored tank",
-            "points": 947,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/HV/fh-plated-defense.png",
             "xws": "plateddefense",
@@ -9731,16 +8941,6 @@ var imageIds = {
         {
             "name": "untether the shackles",
             "points": 994,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/IF/fh-untether-the-shackles.png",
-            "xws": "untethertheshackles",
-            "level": "8",
-            "initiative": "61",
-            "cardno": "211"
-        },
-        {
-            "name": "spiritbound falchion",
-            "points": 995,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/IF/fh-untether-the-shackles.png",
             "xws": "untethertheshackles",
@@ -9891,16 +9091,6 @@ var imageIds = {
         {
             "name": "imbue with life",
             "points": 979,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/IF/fh-imbue-with-life.png",
-            "xws": "imbuewithlife",
-            "level": "X",
-            "initiative": "42",
-            "cardno": "196"
-        },
-        {
-            "name": "animated claymore",
-            "points": 980,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/IF/fh-imbue-with-life.png",
             "xws": "imbuewithlife",
@@ -10503,16 +9693,6 @@ var imageIds = {
             "cardno": "312"
         },
         {
-            "name": "flesh bomb",
-            "points": 1055,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/PC/fh-unstable-effigy.png",
-            "xws": "unstableeffigy",
-            "level": "X",
-            "initiative": "18",
-            "cardno": "312"
-        },
-        {
             "name": "delayed malady",
             "points": 1032,
             "expansion": "Frosthaven",
@@ -10555,16 +9735,6 @@ var imageIds = {
         {
             "name": "scarred effigy",
             "points": 1046,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/PC/fh-scarred-effigy.png",
-            "xws": "scarredeffigy",
-            "level": "1",
-            "initiative": "19",
-            "cardno": "307"
-        },
-        {
-            "name": "flesh fiend",
-            "points": 1047,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/PC/fh-scarred-effigy.png",
             "xws": "scarredeffigy",
@@ -11027,16 +10197,6 @@ var imageIds = {
             "cardno": "352"
         },
         {
-            "name": "polar cat",
-            "points": 1108,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/SD/fh-refreshing-flurry.png",
-            "xws": "refreshingflurry",
-            "level": "6",
-            "initiative": "95",
-            "cardno": "352"
-        },
-        {
             "name": "shifting snow",
             "points": 1109,
             "expansion": "Frosthaven",
@@ -11109,16 +10269,6 @@ var imageIds = {
         {
             "name": "birds in a tempest",
             "points": 1089,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/SD/fh-birds-in-a-tempest.png",
-            "xws": "birdsinatempest",
-            "level": "2",
-            "initiative": "18",
-            "cardno": "344"
-        },
-        {
-            "name": "2 white owls",
-            "points": 1090,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/SD/fh-birds-in-a-tempest.png",
             "xws": "birdsinatempest",
@@ -11219,16 +10369,6 @@ var imageIds = {
         {
             "name": "nature's breath",
             "points": 1104,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/SD/fh-natures-breath.png",
-            "xws": "naturesbreath",
-            "level": "1",
-            "initiative": "90",
-            "cardno": "334"
-        },
-        {
-            "name": "snow fox",
-            "points": 1105,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/SD/fh-natures-breath.png",
             "xws": "naturesbreath",
@@ -11641,16 +10781,6 @@ var imageIds = {
             "cardno": "296"
         },
         {
-            "name": "defense grid",
-            "points": 1165,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/TA/fh-foxhole.png",
-            "xws": "foxhole",
-            "level": "7",
-            "initiative": "90",
-            "cardno": "296"
-        },
-        {
             "name": "grasping hazards",
             "points": 1168,
             "expansion": "Frosthaven",
@@ -11863,16 +10993,6 @@ var imageIds = {
         {
             "name": "furry facade",
             "points": 1166,
-            "expansion": "Frosthaven",
-            "image": "character-ability-cards/frosthaven/TA/fh-furry-facade.png",
-            "xws": "furryfacade",
-            "level": "1",
-            "initiative": "85",
-            "cardno": "274"
-        },
-        {
-            "name": "shaggy lure",
-            "points": 1167,
             "expansion": "Frosthaven",
             "image": "character-ability-cards/frosthaven/TA/fh-furry-facade.png",
             "xws": "furryfacade",
@@ -12807,16 +11927,6 @@ var imageIds = {
             "cardno": "244"
         },
         {
-            "name": "rg-halt-front",
-            "points": 1266,
-            "expansion": "Jaws Of The Lion",
-            "image": "character-ability-cards/jaws-of-the-lion/RG/jl-rg-halt-front.png",
-            "xws": "rghaltback",
-            "level": "-",
-            "initiative": "-",
-            "cardno": "243"
-        },
-        {
             "name": "burn away the dark",
             "points": 1280,
             "expansion": "Jaws Of The Lion",
@@ -13319,16 +12429,6 @@ var imageIds = {
             "cardno": "162"
         },
         {
-            "name": "suggestion",
-            "points": 1340,
-            "expansion": "Jaws Of The Lion",
-            "image": "character-ability-cards/jaws-of-the-lion/VW/jl-suggestion.png",
-            "xws": "suggestion",
-            "level": "1",
-            "initiative": "23",
-            "cardno": "161"
-        },
-        {
             "name": "master influence",
             "points": 1332,
             "expansion": "Jaws Of The Lion",
@@ -13571,16 +12671,6 @@ var imageIds = {
             "cardno": "AA-031"
         },
         {
-            "name": "beta aegis",
-            "points": 1360,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-divide-and-conquer.png",
-            "xws": "divideandconquer",
-            "level": "9",
-            "initiative": "97",
-            "cardno": "AA-031"
-        },
-        {
             "name": "erupting mandibles",
             "points": 1362,
             "expansion": "Crimson Scales",
@@ -13613,16 +12703,6 @@ var imageIds = {
         {
             "name": "stalk the prey",
             "points": 1381,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-stalk-the-prey.png",
-            "xws": "stalktheprey",
-            "level": "7",
-            "initiative": "79",
-            "cardno": "AA-027"
-        },
-        {
-            "name": "deathshroud spider",
-            "points": 1382,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/AA/cs-stalk-the-prey.png",
             "xws": "stalktheprey",
@@ -13671,16 +12751,6 @@ var imageIds = {
             "cardno": "AA-023"
         },
         {
-            "name": "ghostshimmer bee",
-            "points": 1353,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-birthing-chambers.png",
-            "xws": "birthingchambers",
-            "level": "5",
-            "initiative": "61",
-            "cardno": "AA-023"
-        },
-        {
             "name": "alate dispersion",
             "points": 1348,
             "expansion": "Crimson Scales",
@@ -13691,28 +12761,8 @@ var imageIds = {
             "cardno": "AA-022"
         },
         {
-            "name": "rockspine termite",
-            "points": 1349,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-alate-dispersion.png",
-            "xws": "alatedispersion",
-            "level": "4",
-            "initiative": "58",
-            "cardno": "AA-022"
-        },
-        {
             "name": "ferocious proliferation",
             "points": 1363,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-ferocious-proliferation.png",
-            "xws": "ferociousproliferation",
-            "level": "4",
-            "initiative": "58",
-            "cardno": "AA-021"
-        },
-        {
-            "name": "firespitter ant",
-            "points": 1364,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/AA/cs-ferocious-proliferation.png",
             "xws": "ferociousproliferation",
@@ -13801,16 +12851,6 @@ var imageIds = {
             "cardno": "AA-013"
         },
         {
-            "name": "firespitter ant",
-            "points": 1374,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-repel-intruders.png",
-            "xws": "repelintruders",
-            "level": "1",
-            "initiative": "36",
-            "cardno": "AA-013"
-        },
-        {
             "name": "seek nourishment",
             "points": 1376,
             "expansion": "Crimson Scales",
@@ -13821,28 +12861,8 @@ var imageIds = {
             "cardno": "AA-012"
         },
         {
-            "name": "ghostshimmer bee",
-            "points": 1377,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-seek-nourishment.png",
-            "xws": "seeknourishment",
-            "level": "1",
-            "initiative": "24",
-            "cardno": "AA-012"
-        },
-        {
             "name": "shelter the nest",
             "points": 1379,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/AA/cs-shelter-the-nest.png",
-            "xws": "shelterthenest",
-            "level": "1",
-            "initiative": "16",
-            "cardno": "AA-011"
-        },
-        {
-            "name": "rockspine termite",
-            "points": 1380,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/AA/cs-shelter-the-nest.png",
             "xws": "shelterthenest",
@@ -14003,16 +13023,6 @@ var imageIds = {
             "cardno": "053"
         },
         {
-            "name": "black hole",
-            "points": 1391,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/BK/cs-astronomical-strike.png",
-            "xws": "astronomicalstrike",
-            "level": "7",
-            "initiative": "57",
-            "cardno": "053"
-        },
-        {
             "name": "molecular hydroblast",
             "points": 1410,
             "expansion": "Crimson Scales",
@@ -14075,16 +13085,6 @@ var imageIds = {
         {
             "name": "electromagnetism",
             "points": 1400,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/BK/cs-electromagnetism.png",
-            "xws": "electromagnetism",
-            "level": "3",
-            "initiative": "84",
-            "cardno": "046"
-        },
-        {
-            "name": "metal detector",
-            "points": 1401,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/BK/cs-electromagnetism.png",
             "xws": "electromagnetism",
@@ -14879,16 +13879,6 @@ var imageIds = {
             "cardno": "116"
         },
         {
-            "name": "sabretooth tiger",
-            "points": 1504,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-regal-beast.png",
-            "xws": "regalbeast",
-            "level": "9",
-            "initiative": "81",
-            "cardno": "116"
-        },
-        {
             "name": "master the reins",
             "points": 1491,
             "expansion": "Crimson Scales",
@@ -14919,16 +13909,6 @@ var imageIds = {
             "cardno": "113"
         },
         {
-            "name": "war elephant",
-            "points": 1490,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-majestic-mass.png",
-            "xws": "majesticmass",
-            "level": "8",
-            "initiative": "86",
-            "cardno": "113"
-        },
-        {
             "name": "strapping bullwhip",
             "points": 1513,
             "expansion": "Crimson Scales",
@@ -14949,28 +13929,8 @@ var imageIds = {
             "cardno": "111"
         },
         {
-            "name": "battle rhinoceros",
-            "points": 1488,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-impervious-armor.png",
-            "xws": "imperviousarmor",
-            "level": "7",
-            "initiative": "86",
-            "cardno": "111"
-        },
-        {
             "name": "venomous mayhem",
             "points": 1517,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-venomous-mayhem.png",
-            "xws": "venomousmayhem",
-            "level": "6",
-            "initiative": "92",
-            "cardno": "110"
-        },
-        {
-            "name": "cottonmouth snake",
-            "points": 1518,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/CT/cs-venomous-mayhem.png",
             "xws": "venomousmayhem",
@@ -15009,16 +13969,6 @@ var imageIds = {
             "cardno": "107"
         },
         {
-            "name": "lowland gorilla",
-            "points": 1485,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-chest-thumper.png",
-            "xws": "chestthumper",
-            "level": "5",
-            "initiative": "94",
-            "cardno": "107"
-        },
-        {
             "name": "spiked muzzle",
             "points": 1512,
             "expansion": "Crimson Scales",
@@ -15041,16 +13991,6 @@ var imageIds = {
         {
             "name": "agile predator",
             "points": 1479,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-agile-predator.png",
-            "xws": "agilepredator",
-            "level": "3",
-            "initiative": "90",
-            "cardno": "104"
-        },
-        {
-            "name": "black panther",
-            "points": 1480,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/CT/cs-agile-predator.png",
             "xws": "agilepredator",
@@ -15099,16 +14039,6 @@ var imageIds = {
             "cardno": "100"
         },
         {
-            "name": "cavalry camel",
-            "points": 1494,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-mounded-sight.png",
-            "xws": "moundedsight",
-            "level": "X",
-            "initiative": "82",
-            "cardno": "100"
-        },
-        {
             "name": "hunter's mark",
             "points": 1486,
             "expansion": "Crimson Scales",
@@ -15121,16 +14051,6 @@ var imageIds = {
         {
             "name": "prepared rations",
             "points": 1501,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-prepared-rations.png",
-            "xws": "preparedrations",
-            "level": "X",
-            "initiative": "91",
-            "cardno": "098"
-        },
-        {
-            "name": "pack mule",
-            "points": 1502,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/CT/cs-prepared-rations.png",
             "xws": "preparedrations",
@@ -15159,16 +14079,6 @@ var imageIds = {
             "cardno": "096"
         },
         {
-            "name": "scout dog",
-            "points": 1510,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-sniffing-hound.png",
-            "xws": "sniffinghound",
-            "level": "1",
-            "initiative": "80",
-            "cardno": "096"
-        },
-        {
             "name": "sucker punch",
             "points": 1514,
             "expansion": "Crimson Scales",
@@ -15181,16 +14091,6 @@ var imageIds = {
         {
             "name": "slow and steady",
             "points": 1507,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-slow-and-steady.png",
-            "xws": "slowandsteady",
-            "level": "1",
-            "initiative": "93",
-            "cardno": "094"
-        },
-        {
-            "name": "giant tortoise",
-            "points": 1508,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/CT/cs-slow-and-steady.png",
             "xws": "slowandsteady",
@@ -15249,28 +14149,8 @@ var imageIds = {
             "cardno": "089"
         },
         {
-            "name": "speedy ostrich",
-            "points": 1497,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-outrun-the-enemy.png",
-            "xws": "outruntheenemy",
-            "level": "1",
-            "initiative": "87",
-            "cardno": "089"
-        },
-        {
             "name": "catastrophic cattle",
             "points": 1481,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/CT/cs-catastrophic-cattle.png",
-            "xws": "catastrophiccattle",
-            "level": "1",
-            "initiative": "88",
-            "cardno": "088"
-        },
-        {
-            "name": "fighting bull",
-            "points": 1482,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/CT/cs-catastrophic-cattle.png",
             "xws": "catastrophiccattle",
@@ -15303,16 +14183,6 @@ var imageIds = {
         {
             "name": "flashover",
             "points": 1532,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/FK/cs-flashover.png",
-            "xws": "flashover",
-            "level": "9",
-            "initiative": "96",
-            "cardno": "144"
-        },
-        {
-            "name": "reigniting drakefiend",
-            "points": 1533,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/FK/cs-flashover.png",
             "xws": "flashover",
@@ -15473,16 +14343,6 @@ var imageIds = {
         {
             "name": "loyal companion",
             "points": 1542,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/FK/cs-loyal-companion.png",
-            "xws": "loyalcompanion",
-            "level": "X",
-            "initiative": "81",
-            "cardno": "128"
-        },
-        {
-            "name": "spotted hound",
-            "points": 1543,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/FK/cs-loyal-companion.png",
             "xws": "loyalcompanion",
@@ -16317,16 +15177,6 @@ var imageIds = {
             "cardno": "242"
         },
         {
-            "name": "gleaming squid",
-            "points": 1638,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/LU/cs-light-the-way.png",
-            "xws": "lighttheway",
-            "level": "9",
-            "initiative": "93",
-            "cardno": "242"
-        },
-        {
             "name": "blazing pincers",
             "points": 1623,
             "expansion": "Crimson Scales",
@@ -16689,16 +15539,6 @@ var imageIds = {
             "cardno": "266"
         },
         {
-            "name": "crypt nettle",
-            "points": 1684,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/MF/cs-wild-stings.png",
-            "xws": "wildstings",
-            "level": "7",
-            "initiative": "71",
-            "cardno": "266"
-        },
-        {
             "name": "anticoagulant",
             "points": 1655,
             "expansion": "Crimson Scales",
@@ -16889,16 +15729,6 @@ var imageIds = {
             "cardno": "247"
         },
         {
-            "name": "flailing ivies",
-            "points": 1666,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/MF/cs-lashing-vines.png",
-            "xws": "lashingvines",
-            "level": "1",
-            "initiative": "13",
-            "cardno": "247"
-        },
-        {
             "name": "ground solvent",
             "points": 1663,
             "expansion": "Crimson Scales",
@@ -16971,16 +15801,6 @@ var imageIds = {
             "cardno": "QA-029"
         },
         {
-            "name": "clockwork ravager",
-            "points": 1687,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-annihilating-contraption.png",
-            "xws": "annihilatingcontraption",
-            "level": "9",
-            "initiative": "89",
-            "cardno": "QA-029"
-        },
-        {
             "name": "double-barrel railcaster",
             "points": 1688,
             "expansion": "Crimson Scales",
@@ -17013,16 +15833,6 @@ var imageIds = {
         {
             "name": "seeker missiles",
             "points": 1716,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-seeker-missiles.png",
-            "xws": "seekermissiles",
-            "level": "7",
-            "initiative": "77",
-            "cardno": "QA-025"
-        },
-        {
-            "name": "clockwork rocket",
-            "points": 1717,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/QA/cs-seeker-missiles.png",
             "xws": "seekermissiles",
@@ -17071,16 +15881,6 @@ var imageIds = {
             "cardno": "QA-021"
         },
         {
-            "name": "clockwork drone",
-            "points": 1702,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-launch-skywards.png",
-            "xws": "launchskywards",
-            "level": "5",
-            "initiative": "92",
-            "cardno": "QA-021"
-        },
-        {
             "name": "ransack clutter",
             "points": 1709,
             "expansion": "Crimson Scales",
@@ -17121,16 +15921,6 @@ var imageIds = {
             "cardno": "QA-017"
         },
         {
-            "name": "clockwork guardian",
-            "points": 1720,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-trudging-bulwark.png",
-            "xws": "trudgingbulwark",
-            "level": "3",
-            "initiative": "73",
-            "cardno": "QA-017"
-        },
-        {
             "name": "elemental condenser",
             "points": 1689,
             "expansion": "Crimson Scales",
@@ -17153,16 +15943,6 @@ var imageIds = {
         {
             "name": "improvised exosuit",
             "points": 1694,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-improvised-exosuit.png",
-            "xws": "improvisedexosuit",
-            "level": "X",
-            "initiative": "90",
-            "cardno": "QA-014"
-        },
-        {
-            "name": "hollow carapace",
-            "points": 1695,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/QA/cs-improvised-exosuit.png",
             "xws": "improvisedexosuit",
@@ -17271,28 +16051,8 @@ var imageIds = {
             "cardno": "QA-004"
         },
         {
-            "name": "clockwork bombard",
-            "points": 1697,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-improvised-mortar.png",
-            "xws": "improvisedmortar",
-            "level": "1",
-            "initiative": "93",
-            "cardno": "QA-004"
-        },
-        {
             "name": "jury-rigged machine",
             "points": 1699,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/QA/cs-jury-rigged-machine.png",
-            "xws": "juryriggedmachine",
-            "level": "1",
-            "initiative": "88",
-            "cardno": "QA-003"
-        },
-        {
-            "name": "clockwork soldier",
-            "points": 1700,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/QA/cs-jury-rigged-machine.png",
             "xws": "juryriggedmachine",
@@ -17635,26 +16395,6 @@ var imageIds = {
             "cardno": "300"
         },
         {
-            "name": "wandering soul",
-            "points": 1763,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-eternal-endurance.png",
-            "xws": "eternalendurance",
-            "level": "9",
-            "initiative": "6",
-            "cardno": "300"
-        },
-        {
-            "name": "disembodied goliath",
-            "points": 1764,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-eternal-endurance.png",
-            "xws": "eternalendurance",
-            "level": "9",
-            "initiative": "6",
-            "cardno": "300"
-        },
-        {
             "name": "death is not defeat",
             "points": 1758,
             "expansion": "Crimson Scales",
@@ -17685,28 +16425,8 @@ var imageIds = {
             "cardno": "297"
         },
         {
-            "name": "spectral phoenix",
-            "points": 1784,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-rise-from-ashes.png",
-            "xws": "risefromashes",
-            "level": "7",
-            "initiative": "55",
-            "cardno": "296"
-        },
-        {
             "name": "shamanistic guard",
             "points": 1785,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-shamanistic-guard.png",
-            "xws": "shamanisticguard",
-            "level": "7",
-            "initiative": "18",
-            "cardno": "296"
-        },
-        {
-            "name": "vengeful phantasm",
-            "points": 1786,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-shamanistic-guard.png",
             "xws": "shamanisticguard",
@@ -17725,28 +16445,8 @@ var imageIds = {
             "cardno": "295"
         },
         {
-            "name": "glowing egg",
-            "points": 1783,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-rise-from-ashes.png",
-            "xws": "risefromashes",
-            "level": "7",
-            "initiative": "55",
-            "cardno": "295"
-        },
-        {
             "name": "horrific nightmare",
             "points": 1777,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-horrific-nightmare.png",
-            "xws": "horrificnightmare",
-            "level": "6",
-            "initiative": "71",
-            "cardno": "294"
-        },
-        {
-            "name": "soul snatcher",
-            "points": 1778,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-horrific-nightmare.png",
             "xws": "horrificnightmare",
@@ -17765,28 +16465,8 @@ var imageIds = {
             "cardno": "293"
         },
         {
-            "name": "mimicking sprite",
-            "points": 1770,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-fierce-loyalty.png",
-            "xws": "fierceloyalty",
-            "level": "6",
-            "initiative": "20",
-            "cardno": "293"
-        },
-        {
             "name": "spiritual energy",
             "points": 1793,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-spiritual-energy.png",
-            "xws": "spiritualenergy",
-            "level": "5",
-            "initiative": "34",
-            "cardno": "292"
-        },
-        {
-            "name": "imbued monolith",
-            "points": 1794,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-spiritual-energy.png",
             "xws": "spiritualenergy",
@@ -17815,26 +16495,6 @@ var imageIds = {
             "cardno": "290"
         },
         {
-            "name": "orb of light",
-            "points": 1801,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-white-glow.png",
-            "xws": "whiteglow",
-            "level": "4",
-            "initiative": "77",
-            "cardno": "290"
-        },
-        {
-            "name": "shifting discs",
-            "points": 1802,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-white-glow.png",
-            "xws": "whiteglow",
-            "level": "4",
-            "initiative": "77",
-            "cardno": "290"
-        },
-        {
             "name": "spirit barrage",
             "points": 1792,
             "expansion": "Crimson Scales",
@@ -17847,16 +16507,6 @@ var imageIds = {
         {
             "name": "spread disease",
             "points": 1795,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-spread-disease.png",
-            "xws": "spreaddisease",
-            "level": "3",
-            "initiative": "47",
-            "cardno": "288"
-        },
-        {
-            "name": "leprous wraith",
-            "points": 1796,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-spread-disease.png",
             "xws": "spreaddisease",
@@ -17885,28 +16535,8 @@ var imageIds = {
             "cardno": "286"
         },
         {
-            "name": "mantle of darkness",
-            "points": 1790,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-smoky-shroud.png",
-            "xws": "smokyshroud",
-            "level": "2",
-            "initiative": "81",
-            "cardno": "286"
-        },
-        {
             "name": "flurry of madness",
             "points": 1771,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-flurry-of-madness.png",
-            "xws": "flurryofmadness",
-            "level": "2",
-            "initiative": "42",
-            "cardno": "285"
-        },
-        {
-            "name": "bat cloud",
-            "points": 1772,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-flurry-of-madness.png",
             "xws": "flurryofmadness",
@@ -17935,28 +16565,8 @@ var imageIds = {
             "cardno": "283"
         },
         {
-            "name": "leeching phantasm",
-            "points": 1774,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-forceful-apparition.png",
-            "xws": "forcefulapparition",
-            "level": "X",
-            "initiative": "16",
-            "cardno": "283"
-        },
-        {
             "name": "fear the reaper",
             "points": 1767,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-fear-the-reaper.png",
-            "xws": "fearthereaper",
-            "level": "X",
-            "initiative": "91",
-            "cardno": "282"
-        },
-        {
-            "name": "deatheater",
-            "points": 1768,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-fear-the-reaper.png",
             "xws": "fearthereaper",
@@ -17995,16 +16605,6 @@ var imageIds = {
             "cardno": "279"
         },
         {
-            "name": "wailing banshee",
-            "points": 1788,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-shrieking-spirit.png",
-            "xws": "shriekingspirit",
-            "level": "1",
-            "initiative": "26",
-            "cardno": "279"
-        },
-        {
             "name": "midnight feast",
             "points": 1781,
             "expansion": "Crimson Scales",
@@ -18025,28 +16625,8 @@ var imageIds = {
             "cardno": "277"
         },
         {
-            "name": "ghost carriage",
-            "points": 1780,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-incorporeal-transport.png",
-            "xws": "incorporealtransport",
-            "level": "1",
-            "initiative": "74",
-            "cardno": "277"
-        },
-        {
             "name": "horde of bones",
             "points": 1775,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-horde-of-bones.png",
-            "xws": "hordeofbones",
-            "level": "1",
-            "initiative": "79",
-            "cardno": "276"
-        },
-        {
-            "name": "skeletal archer",
-            "points": 1776,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-horde-of-bones.png",
             "xws": "hordeofbones",
@@ -18065,28 +16645,8 @@ var imageIds = {
             "cardno": "275"
         },
         {
-            "name": "phantom hound",
-            "points": 1766,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-ethereal-canine.png",
-            "xws": "etherealcanine",
-            "level": "1",
-            "initiative": "27",
-            "cardno": "275"
-        },
-        {
             "name": "dimmed defense",
             "points": 1760,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-dimmed-defense.png",
-            "xws": "dimmeddefense",
-            "level": "1",
-            "initiative": "12",
-            "cardno": "274"
-        },
-        {
-            "name": "wall of shadows",
-            "points": 1761,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-dimmed-defense.png",
             "xws": "dimmeddefense",
@@ -18107,16 +16667,6 @@ var imageIds = {
         {
             "name": "burning pit",
             "points": 1753,
-            "expansion": "Crimson Scales",
-            "image": "character-ability-cards/crimson-scales/SP/cs-burning-pit.png",
-            "xws": "burningpit",
-            "level": "1",
-            "initiative": "45",
-            "cardno": "272"
-        },
-        {
-            "name": "blazing fire",
-            "points": 1754,
             "expansion": "Crimson Scales",
             "image": "character-ability-cards/crimson-scales/SP/cs-burning-pit.png",
             "xws": "burningpit",
