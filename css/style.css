@@ -58,3 +58,23 @@ form {
 .selected {
 	border: 2px solid red;
 }
+
+ @media (max-width: 1000px) {
+     .section {
+         padding: 5%;
+    }
+     #air {
+         padding: 5% 0;
+    }
+     form {
+         flex-wrap: nowrap;
+         flex-direction: column;
+         padding: 0%;
+    }
+	#grid {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(2, 1fr);
+}
+    
+}
