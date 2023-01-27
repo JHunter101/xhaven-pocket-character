@@ -5,7 +5,7 @@ html * {
 
 /* general */
 .section {
-	padding: 2% 20%;
+	padding: 2% 10%;
 	margin-bottom: 0;
 }
 
@@ -60,7 +60,16 @@ form {
 }
 
  @media (max-width: 1000px) {
-     .section {
+	 .grid-item {
+	transition: none;
+}
+
+.grid-item:hover {
+	transform: none;
+	cursor: pointer;
+}
+
+    .section {
          padding: 5%;
     }
      #air {

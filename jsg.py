@@ -37,7 +37,7 @@ for card in character_ability_cards:
     new_character_ability_cards[owner].append(card)
 
 for char in new_character_ability_cards:
-    new_character_ability_cards[char] = sorted(new_character_ability_cards[char], key=lambda d: d['cardno']) 
+    new_character_ability_cards[char] = sorted(new_character_ability_cards[char], key=lambda d: d['cardno'], reverse=True) 
 
 
 for char in new_character_ability_cards:
@@ -46,8 +46,6 @@ for char in new_character_ability_cards:
     id_stop = max(card_ids)
     class_data.loc[class_data.code == char, ['id_start', 'id_stop']] = id_start, id_stop
     
-    
-print(class_data['id_start'])
 class_data.to_csv('class_data.csv', index = False)
 parsed = json.loads(class_data.to_json(orient="index"))
 js_file = os.path.join(js_dir, "class-data.js")
