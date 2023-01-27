@@ -1,0 +1,60 @@
+html * {
+	font-family: Monospace, sans-serif;
+	!important;
+}
+
+/* general */
+.section {
+	padding: 2% 20%;
+	margin-bottom: 0;
+}
+
+.section:before {
+	background: rgba(6, 12, 34, 0.8);
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+/*-------------------------------------------------------------- # Air Section --------------------------------------------------------------*/
+#air {
+	padding: 2% 0;
+}
+
+form {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	padding: 0% 30%;
+}
+
+/* set grid layout for images */
+#grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 20px;
+}
+
+/* hide images by default */
+.grid-item {
+	transition: all .2s ease-in-out;
+}
+
+/* hide images by default */
+.hidden {
+	display: none
+}
+
+/* zoom effect when hovering over image */
+.grid-item:hover {
+	transform: scale(2);
+	cursor: pointer;
+}
+
+/* red border for selected images */
+.selected {
+	border: 2px solid red;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>X-Haven Pocket Character</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="css/pico.min.css">
+	<script src="js/class-data.js"></script>
+	<script src="js/attack-modifiers.js"></script>
+	<script src="js/new-character-ability-cards.js"></script>
+	<script src="js/character-mats.js"></script>
+	<script src="js/character-perks.js"></script>
+	<script src="js/script.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+	<section id="air" class="section">
+	</section>
+
+	<section id="form" class="section">
+		<form>
+			<label>Character Name:</label>
+			<select id="character-name">
+				<option value="">Select a character</option>
+			</select>
+			<label>Level:</label>
+			<select id="level">
+				<option value="">Select a level</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+			</select>
+		</form>
+	</section>
+	<section id="images" class="section">
+		<div id="grid">
+			<!-- more images here -->
+		</div>
+	</section>
+
+	<section id="export" class="section">
+		<button id="export-btn" onclick="handleExportClick()">Export Selection</button>
+		<textarea id="import-input"></textarea>
+		<button id="import-btn" onclick="handleImportClick()">Import Selection</button>
+	</section>
+</body>
+
+</html>
