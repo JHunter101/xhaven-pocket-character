@@ -1,5 +1,4 @@
 window.onload = function() {
-	
 	if (localStorage.getItem('pageHTML') !== null) {
 		// load the saved HTML from local storage and set it as the HTML of the body element
 		document.documentElement.innerHTML = getLocalStorage('pageHTML');
@@ -7,7 +6,6 @@ window.onload = function() {
 		document.getElementById("level").value = getLocalStorage('levelInput');
 		refindImages()
 	}
-	
 	// Add event listeners for character name input and export/import buttons
 	const maxCards = 0;
 	const exportBtn = document.querySelector('#export-btn');
@@ -98,7 +96,6 @@ function resetSelected() {
 	const selectedImages = document.querySelectorAll('.selected');
 	// Remove the 'selected' class from each element
 	selectedImages.forEach(img => img.classList.remove('selected'));
-	
 	maxCards = class_data[characterNameInput.value]['max_cards']
 	saveProgress()
 }
