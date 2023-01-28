@@ -23,11 +23,9 @@
 	</section>
 
 	<section id="export" class="section">
-		<div id="button-container">
-		<button id="clear-btn" class= "btn" onclick="clearLocalStorage(); handleExportClick()">Clear Local Storage</button>
-		<button id="clear-btn" class= "btn" onclick="clearAndReset(); handleExportClick()">Reset</button>
-		<button id="import-btn" class= "btn" onclick="handleImportClick()">Import Selection</button>
-		<textarea id="import-input"></textarea>
+		<div class="button-container">
+			<textarea id="import-input" class="btn btn-primary reset"></textarea>
+			<a href="#air" id='import-btn' class="btn btn-primary blue" onclick="handleImportClick()">Import Selection</button></a>
 		</div>
 	</section>
 
@@ -57,6 +55,14 @@
 			<!-- more images here -->
 		</div>
 	</section>
+	
+	<section id="export" class="section">
+		<div class="button-container">
+			<a href="#air" class="btn btn-primary red" onclick="clearAndReset();">Reset</button></a>
+			<a href="#air" class="btn btn-primary red" onclick="clearLocalStorage();">Clear Local Storage</button></a>
+		</div>
+	</section>
+	
 </body>
 
 </html>

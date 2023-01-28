@@ -10,8 +10,10 @@ window.onload = function() {
 		for (var i = 0; i < selectedElementsArray.length; i++) {
 			document.getElementById(selectedElementsArray[i]).classList.add('selected');
 		}
-		refindImages()
 	}
+	
+	refindImages()
+	
 	// Add event listeners for character name input and export/import buttons
 	const maxCards = 0;
 	const exportBtn = document.querySelector('#export-btn');

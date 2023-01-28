@@ -25,6 +25,7 @@ function handleExportClick() {
 	const importInput = document.getElementById('import-input');
 	// Check that character name and level inputs have a value
 	if (characterNameInput.value && levelInput.value) {
+		document.getElementById("images").classList.remove('hidden');
 		// Create an empty array to store ids of selected images
 		const selectedImagesIds = [...document.querySelectorAll('.selected')].map(img => img.id);
 		// Create export string with character name, level, and selected image ids
@@ -38,6 +39,7 @@ function handleExportClick() {
 	} else {
 		// Prompt user to save the exportString
 		importInput.value = "";
+		document.getElementById("images").classList.add('hidden');
 	}
 }
 // Function to handle import button click
@@ -107,6 +109,7 @@ function refindImages() {
 		image.addEventListener('click', saveProgress);
 		image.addEventListener('click', handleExportClick);
 	});
+	handleExportClick()
 	saveProgress();
 }
 // Clear input fields and grid
