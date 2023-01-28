@@ -1,4 +1,13 @@
 window.onload = function() {
+	
+	if (localStorage.getItem('pageHTML') !== null) {
+		// load the saved HTML from local storage and set it as the HTML of the body element
+		document.documentElement.innerHTML = getLocalStorage('pageHTML');
+		document.getElementById("character-name").value = getLocalStorage('characterNameInput');
+		document.getElementById("level").value = getLocalStorage('levelInput');
+		refindImages()
+	}
+	
 	// Add event listeners for character name input and export/import buttons
 	const maxCards = 0;
 	const exportBtn = document.querySelector('#export-btn');
@@ -16,6 +25,7 @@ window.onload = function() {
 	// Add click event listener for grid images
 	gridImages.forEach(image => {
 		image.addEventListener('click', handleImageSelection);
+		image.addEventListener('click', saveProgress);
 	});
 	for (const classCode in class_data) {
 		const class_info = class_data[classCode];
@@ -79,6 +89,7 @@ function handleImportClick() {
 		// Add the selected class to the image
 		image.classList.add('selected');
 	});
+	saveProgress()
 }
 
 function resetSelected() {
@@ -89,6 +100,7 @@ function resetSelected() {
 	selectedImages.forEach(img => img.classList.remove('selected'));
 	
 	maxCards = class_data[characterNameInput.value]['max_cards']
+	saveProgress()
 }
 
 function refindImages() {
@@ -121,4 +133,5 @@ function refindImages() {
 			}
 		});
 	}
+	saveProgress()
 }
