@@ -18,6 +18,25 @@ html * {
 	right: 0;
 }
 
+#button-container{
+     text-align: center;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+}
+
+/* Button styles */
+ .btn {
+     display: inline-block;
+     padding: 1em 2em;
+     font-size: 1.2em;
+     font-weight: 600;
+     text-align: center;
+     text-decoration: none;
+     white-space: nowrap;
+     border-radius: 0.2em;
+     transition: all 0.2s ease-in-out;
+}
 /*-------------------------------------------------------------- # Air Section --------------------------------------------------------------*/
 #air {
 	padding: 2% 0;
@@ -59,31 +78,34 @@ form {
 	border: 2px solid red;
 }
 
- @media (max-width: 1000px) {
-	 .grid-item {
-	transition: none;
-}
 
-.grid-item:hover {
-	transform: none;
-	cursor: pointer;
-}
+@media (max-width: 1000px) {
+	.grid-item {
+		transition: none;
+	}
 
-    .section {
-         padding: 5%;
-    }
-     #air {
-         padding: 5% 0;
-    }
-     form {
-         flex-wrap: nowrap;
-         flex-direction: column;
-         padding: 0%;
-    }
+	.grid-item:hover {
+		transform: none;
+		cursor: pointer;
+	}
+
+	.section {
+		padding: 5%;
+	}
+
+	#air {
+		padding: 5% 0;
+	}
+
+	form {
+		flex-wrap: nowrap;
+		flex-direction: column;
+		padding: 0%;
+	}
+
 	#grid {
-	display: grid;
-	grid-gap: 10px;
-	grid-template-columns: repeat(2, 1fr);
-}
-    
+		display: grid;
+		grid-gap: 10px;
+		grid-template-columns: repeat(2, 1fr);
+	}
 }

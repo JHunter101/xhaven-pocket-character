@@ -3,6 +3,7 @@
 
 <head>
 	<title>X-Haven Pocket Character</title>
+	<link rel="icon" type="image/x-icon" href="icon.ico">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" href="css/pico.min.css">
 	<script src="js/class-data.js"></script>
@@ -11,13 +12,23 @@
 	<script src="js/character-mats.js"></script>
 	<script src="js/character-perks.js"></script>
 	<script src="js/cookies.js"></script>
-	<script src="js/script.js"></script>
+	<script src="js/functions.js"></script>
+	<script src="js/on-load.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
 
 	<section id="air" class="section">
+	</section>
+
+	<section id="export" class="section">
+		<div id="button-container">
+		<button id="clear-btn" class= "btn" onclick="clearLocalStorage(); handleExportClick()">Clear Local Storage</button>
+		<button id="clear-btn" class= "btn" onclick="clearAndReset(); handleExportClick()">Reset</button>
+		<button id="import-btn" class= "btn" onclick="handleImportClick()">Import Selection</button>
+		<textarea id="import-input"></textarea>
+		</div>
 	</section>
 
 	<section id="form" class="section">
@@ -45,12 +56,6 @@
 		<div id="grid">
 			<!-- more images here -->
 		</div>
-	</section>
-
-	<section id="export" class="section">
-		<button id="export-btn" onclick="handleExportClick()">Export Selection</button>
-		<textarea id="import-input"></textarea>
-		<button id="import-btn" onclick="handleImportClick()">Import Selection</button>
 	</section>
 </body>
 
