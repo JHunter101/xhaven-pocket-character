@@ -7,17 +7,23 @@ function clearLocalStorage() {
 function getLocalStorage(key) {
 	return localStorage.getItem(key);
 }
+
 // Function to handle image selection
 function handleImageSelection(event) {
-	const selectedImages = document.querySelectorAll('.selected').length;
-	if (event.target.classList.contains('selected')) {
-		event.target.classList.remove('selected');
-	} else {
-		if (selectedImages < maxCards) {
-			event.target.classList.add('selected');
-		}
-	}
+  const selectedImages = document.querySelectorAll('.selected');
+  const target = event.target;
+  if (target.classList.contains('selected')) {
+    target.classList.remove('selected');
+  } else {
+    var levels = [...selectedImages].map(img => img.id.substring(3, 4));
+    const targetLevel = target.id.substring(3, 4);
+    if (levels.length < maxCards && !levels.includes(targetLevel) || targetLevel === '1') {
+      target.classList.add('selected');
+    }
+  }
 }
+
+
 // Function to handle export button click
 function handleExportClick() {
 	const characterNameInput = document.getElementById('character-name');
@@ -87,16 +93,16 @@ function refindImages() {
 		cards.forEach(imgData => {
 			const img = document.createElement("img");
 			img.src = 'images/' + imgData.image;
-			img.id = imgData.cardno + '_' + imgData.name;
+			img.id = characterNameInput.value + '-' + imgData.level + '-' + imgData.cardno + '-' + imgData.name;
 			img.classList.add('hidden', 'grid-item');
 			document.getElementById("grid").appendChild(img);
 		});
 		// Iterate through the cards and display or hide them based on the level input value
 		cards.forEach(imgData => {
 			if (parseInt(imgData.level) <= parseInt(levelInput.value)) {
-				document.getElementById(imgData.cardno + '_' + imgData.name).classList.remove('hidden');
+				document.getElementById(characterNameInput.value + '-' + imgData.level + '-' + imgData.cardno + '-' + imgData.name).classList.remove('hidden');
 			} else {
-				document.getElementById(imgData.cardno + '_' + imgData.name).classList.add('hidden');
+				document.getElementById(characterNameInput.value + '-' + imgData.level + '-' + imgData.cardno + '-' + imgData.name).classList.add('hidden');
 			}
 		});
 	}

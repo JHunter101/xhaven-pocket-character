@@ -12658,7 +12658,7 @@ var imageIds = {
             "xws": "supremeauthority",
             "level": "9",
             "initiative": "03",
-            "cardno": "AA-032"
+            "cardno": "032"
         },
         {
             "name": "divide and conquer",
@@ -12668,7 +12668,7 @@ var imageIds = {
             "xws": "divideandconquer",
             "level": "9",
             "initiative": "97",
-            "cardno": "AA-031"
+            "cardno": "031"
         },
         {
             "name": "erupting mandibles",
@@ -12678,7 +12678,7 @@ var imageIds = {
             "xws": "eruptingmandibles",
             "level": "8",
             "initiative": "54",
-            "cardno": "AA-030"
+            "cardno": "030"
         },
         {
             "name": "coordinated infestation",
@@ -12688,7 +12688,7 @@ var imageIds = {
             "xws": "coordinatedinfestation",
             "level": "8",
             "initiative": "45",
-            "cardno": "AA-029"
+            "cardno": "029"
         },
         {
             "name": "lacerating horde",
@@ -12698,7 +12698,7 @@ var imageIds = {
             "xws": "laceratinghorde",
             "level": "7",
             "initiative": "22",
-            "cardno": "AA-028"
+            "cardno": "028"
         },
         {
             "name": "stalk the prey",
@@ -12708,7 +12708,7 @@ var imageIds = {
             "xws": "stalktheprey",
             "level": "7",
             "initiative": "79",
-            "cardno": "AA-027"
+            "cardno": "027"
         },
         {
             "name": "frantic migration",
@@ -12718,7 +12718,7 @@ var imageIds = {
             "xws": "franticmigration",
             "level": "6",
             "initiative": "08",
-            "cardno": "AA-026"
+            "cardno": "026"
         },
         {
             "name": "assimilate adversaries",
@@ -12728,7 +12728,7 @@ var imageIds = {
             "xws": "assimilateadversaries",
             "level": "6",
             "initiative": "50",
-            "cardno": "AA-025"
+            "cardno": "025"
         },
         {
             "name": "burrow under",
@@ -12738,7 +12738,7 @@ var imageIds = {
             "xws": "burrowunder",
             "level": "5",
             "initiative": "22",
-            "cardno": "AA-024"
+            "cardno": "024"
         },
         {
             "name": "birthing chambers",
@@ -12748,7 +12748,7 @@ var imageIds = {
             "xws": "birthingchambers",
             "level": "5",
             "initiative": "61",
-            "cardno": "AA-023"
+            "cardno": "023"
         },
         {
             "name": "alate dispersion",
@@ -12758,7 +12758,7 @@ var imageIds = {
             "xws": "alatedispersion",
             "level": "4",
             "initiative": "58",
-            "cardno": "AA-022"
+            "cardno": "022"
         },
         {
             "name": "ferocious proliferation",
@@ -12768,7 +12768,7 @@ var imageIds = {
             "xws": "ferociousproliferation",
             "level": "4",
             "initiative": "58",
-            "cardno": "AA-021"
+            "cardno": "021"
         },
         {
             "name": "violent outlash",
@@ -12778,7 +12778,7 @@ var imageIds = {
             "xws": "violentoutlash",
             "level": "3",
             "initiative": "63",
-            "cardno": "AA-020"
+            "cardno": "020"
         },
         {
             "name": "maddening chatter",
@@ -12788,7 +12788,7 @@ var imageIds = {
             "xws": "maddeningchatter",
             "level": "3",
             "initiative": "29",
-            "cardno": "AA-019"
+            "cardno": "019"
         },
         {
             "name": "steelsilk weaver",
@@ -12798,7 +12798,7 @@ var imageIds = {
             "xws": "steelsilkweaver",
             "level": "2",
             "initiative": "41",
-            "cardno": "AA-018"
+            "cardno": "018"
         },
         {
             "name": "clad in spikes",
@@ -12808,7 +12808,7 @@ var imageIds = {
             "xws": "cladinspikes",
             "level": "2",
             "initiative": "12",
-            "cardno": "AA-017"
+            "cardno": "017"
         },
         {
             "name": "primal pheromones",
@@ -12818,7 +12818,7 @@ var imageIds = {
             "xws": "primalpheromones",
             "level": "X",
             "initiative": "92",
-            "cardno": "AA-016"
+            "cardno": "016"
         },
         {
             "name": "march of multitudes",
@@ -12828,7 +12828,7 @@ var imageIds = {
             "xws": "marchofmultitudes",
             "level": "X",
             "initiative": "37",
-            "cardno": "AA-015"
+            "cardno": "015"
         },
         {
             "name": "overwhelming swarm",
@@ -12838,7 +12838,7 @@ var imageIds = {
             "xws": "overwhelmingswarm",
             "level": "X",
             "initiative": "44",
-            "cardno": "AA-014"
+            "cardno": "014"
         },
         {
             "name": "repel intruders",
@@ -12848,7 +12848,7 @@ var imageIds = {
             "xws": "repelintruders",
             "level": "1",
             "initiative": "36",
-            "cardno": "AA-013"
+            "cardno": "013"
         },
         {
             "name": "seek nourishment",
@@ -12858,7 +12858,7 @@ var imageIds = {
             "xws": "seeknourishment",
             "level": "1",
             "initiative": "24",
-            "cardno": "AA-012"
+            "cardno": "012"
         },
         {
             "name": "shelter the nest",
@@ -12868,7 +12868,7 @@ var imageIds = {
             "xws": "shelterthenest",
             "level": "1",
             "initiative": "16",
-            "cardno": "AA-011"
+            "cardno": "011"
         },
         {
             "name": "nurture the weak",
@@ -12878,7 +12878,7 @@ var imageIds = {
             "xws": "nurturetheweak",
             "level": "1",
             "initiative": "20",
-            "cardno": "AA-010"
+            "cardno": "010"
         },
         {
             "name": "anti-venom",
@@ -12888,7 +12888,7 @@ var imageIds = {
             "xws": "antivenom",
             "level": "1",
             "initiative": "73",
-            "cardno": "AA-009"
+            "cardno": "009"
         },
         {
             "name": "burning stingers",
@@ -12898,7 +12898,7 @@ var imageIds = {
             "xws": "burningstingers",
             "level": "1",
             "initiative": "73",
-            "cardno": "AA-008"
+            "cardno": "008"
         },
         {
             "name": "corrosive spittle",
@@ -12908,7 +12908,7 @@ var imageIds = {
             "xws": "corrosivespittle",
             "level": "1",
             "initiative": "45",
-            "cardno": "AA-007"
+            "cardno": "007"
         },
         {
             "name": "sentry swarm",
@@ -12918,7 +12918,7 @@ var imageIds = {
             "xws": "sentryswarm",
             "level": "1",
             "initiative": "07",
-            "cardno": "AA-006"
+            "cardno": "006"
         },
         {
             "name": "retribution of the hive",
@@ -12928,7 +12928,7 @@ var imageIds = {
             "xws": "retributionofthehive",
             "level": "1",
             "initiative": "16",
-            "cardno": "AA-005"
+            "cardno": "005"
         },
         {
             "name": "horned carapace",
@@ -12938,7 +12938,7 @@ var imageIds = {
             "xws": "hornedcarapace",
             "level": "1",
             "initiative": "26",
-            "cardno": "AA-004"
+            "cardno": "004"
         },
         {
             "name": "encasing webs",
@@ -12948,7 +12948,7 @@ var imageIds = {
             "xws": "encasingwebs",
             "level": "1",
             "initiative": "33",
-            "cardno": "AA-003"
+            "cardno": "003"
         },
         {
             "name": "aa-back",
@@ -15788,7 +15788,7 @@ var imageIds = {
             "xws": "perfectedexosuit",
             "level": "9",
             "initiative": "08",
-            "cardno": "QA-030"
+            "cardno": "030"
         },
         {
             "name": "annihilating contraption",
@@ -15798,7 +15798,7 @@ var imageIds = {
             "xws": "annihilatingcontraption",
             "level": "9",
             "initiative": "89",
-            "cardno": "QA-029"
+            "cardno": "029"
         },
         {
             "name": "double-barrel railcaster",
@@ -15808,7 +15808,7 @@ var imageIds = {
             "xws": "doublebarrelrailcaster",
             "level": "8",
             "initiative": "37",
-            "cardno": "QA-028"
+            "cardno": "028"
         },
         {
             "name": "instant relocation matrix",
@@ -15818,7 +15818,7 @@ var imageIds = {
             "xws": "instantrelocationmatrix",
             "level": "8",
             "initiative": "X9",
-            "cardno": "QA-027"
+            "cardno": "027"
         },
         {
             "name": "reinforce armor",
@@ -15828,7 +15828,7 @@ var imageIds = {
             "xws": "reinforcearmor",
             "level": "7",
             "initiative": "26",
-            "cardno": "QA-026"
+            "cardno": "026"
         },
         {
             "name": "seeker missiles",
@@ -15838,7 +15838,7 @@ var imageIds = {
             "xws": "seekermissiles",
             "level": "7",
             "initiative": "77",
-            "cardno": "QA-025"
+            "cardno": "025"
         },
         {
             "name": "march of machines",
@@ -15848,7 +15848,7 @@ var imageIds = {
             "xws": "marchofmachines",
             "level": "6",
             "initiative": "50",
-            "cardno": "QA-024"
+            "cardno": "024"
         },
         {
             "name": "galvanic coil",
@@ -15858,7 +15858,7 @@ var imageIds = {
             "xws": "galvaniccoil",
             "level": "6",
             "initiative": "X7",
-            "cardno": "QA-023"
+            "cardno": "023"
         },
         {
             "name": "oscillating projector",
@@ -15868,7 +15868,7 @@ var imageIds = {
             "xws": "oscillatingprojector",
             "level": "5",
             "initiative": "22",
-            "cardno": "QA-022"
+            "cardno": "022"
         },
         {
             "name": "launch skywards",
@@ -15878,7 +15878,7 @@ var imageIds = {
             "xws": "launchskywards",
             "level": "5",
             "initiative": "92",
-            "cardno": "QA-021"
+            "cardno": "021"
         },
         {
             "name": "ransack clutter",
@@ -15888,7 +15888,7 @@ var imageIds = {
             "xws": "ransackclutter",
             "level": "4",
             "initiative": "18",
-            "cardno": "QA-020"
+            "cardno": "020"
         },
         {
             "name": "energy transmission",
@@ -15898,7 +15898,7 @@ var imageIds = {
             "xws": "energytransmission",
             "level": "4",
             "initiative": "X5",
-            "cardno": "QA-019"
+            "cardno": "019"
         },
         {
             "name": "retrofit weapons",
@@ -15908,7 +15908,7 @@ var imageIds = {
             "xws": "retrofitweapons",
             "level": "3",
             "initiative": "60",
-            "cardno": "QA-018"
+            "cardno": "018"
         },
         {
             "name": "trudging bulwark",
@@ -15918,7 +15918,7 @@ var imageIds = {
             "xws": "trudgingbulwark",
             "level": "3",
             "initiative": "73",
-            "cardno": "QA-017"
+            "cardno": "017"
         },
         {
             "name": "elemental condenser",
@@ -15928,7 +15928,7 @@ var imageIds = {
             "xws": "elementalcondenser",
             "level": "2",
             "initiative": "04",
-            "cardno": "QA-016"
+            "cardno": "016"
         },
         {
             "name": "trajectory diverter",
@@ -15938,7 +15938,7 @@ var imageIds = {
             "xws": "trajectorydiverter",
             "level": "2",
             "initiative": "X3",
-            "cardno": "QA-015"
+            "cardno": "015"
         },
         {
             "name": "improvised exosuit",
@@ -15948,7 +15948,7 @@ var imageIds = {
             "xws": "improvisedexosuit",
             "level": "X",
             "initiative": "90",
-            "cardno": "QA-014"
+            "cardno": "014"
         },
         {
             "name": "remote control",
@@ -15958,7 +15958,7 @@ var imageIds = {
             "xws": "remotecontrol",
             "level": "X",
             "initiative": "37",
-            "cardno": "QA-013"
+            "cardno": "013"
         },
         {
             "name": "power modulation",
@@ -15968,7 +15968,7 @@ var imageIds = {
             "xws": "powermodulation",
             "level": "X",
             "initiative": "X1",
-            "cardno": "QA-012"
+            "cardno": "012"
         },
         {
             "name": "particle ray beam",
@@ -15978,7 +15978,7 @@ var imageIds = {
             "xws": "particleraybeam",
             "level": "1",
             "initiative": "36",
-            "cardno": "QA-011"
+            "cardno": "011"
         },
         {
             "name": "gravity inverter module",
@@ -15988,7 +15988,7 @@ var imageIds = {
             "xws": "gravityinvertermodule",
             "level": "1",
             "initiative": "20",
-            "cardno": "QA-010"
+            "cardno": "010"
         },
         {
             "name": "phase field emitter",
@@ -15998,7 +15998,7 @@ var imageIds = {
             "xws": "phasefieldemitter",
             "level": "1",
             "initiative": "12",
-            "cardno": "QA-009"
+            "cardno": "009"
         },
         {
             "name": "salvage grappler",
@@ -16008,7 +16008,7 @@ var imageIds = {
             "xws": "salvagegrappler",
             "level": "1",
             "initiative": "46",
-            "cardno": "QA-008"
+            "cardno": "008"
         },
         {
             "name": "repurpose leftovers",
@@ -16018,7 +16018,7 @@ var imageIds = {
             "xws": "repurposeleftovers",
             "level": "1",
             "initiative": "68",
-            "cardno": "QA-007"
+            "cardno": "007"
         },
         {
             "name": "recycle parts",
@@ -16028,7 +16028,7 @@ var imageIds = {
             "xws": "recycleparts",
             "level": "1",
             "initiative": "24",
-            "cardno": "QA-006"
+            "cardno": "006"
         },
         {
             "name": "fragmentation grenade",
@@ -16038,7 +16038,7 @@ var imageIds = {
             "xws": "fragmentationgrenade",
             "level": "1",
             "initiative": "45",
-            "cardno": "QA-005"
+            "cardno": "005"
         },
         {
             "name": "improvised mortar",
@@ -16048,7 +16048,7 @@ var imageIds = {
             "xws": "improvisedmortar",
             "level": "1",
             "initiative": "93",
-            "cardno": "QA-004"
+            "cardno": "004"
         },
         {
             "name": "jury-rigged machine",
@@ -16058,7 +16058,7 @@ var imageIds = {
             "xws": "juryriggedmachine",
             "level": "1",
             "initiative": "88",
-            "cardno": "QA-003"
+            "cardno": "003"
         },
         {
             "name": "qa-back",
@@ -16080,7 +16080,7 @@ var imageIds = {
             "xws": "ripandtear",
             "level": "9",
             "initiative": "42",
-            "cardno": "RM-032"
+            "cardno": "032"
         },
         {
             "name": "belly of the beast",
@@ -16090,7 +16090,7 @@ var imageIds = {
             "xws": "bellyofthebeast",
             "level": "9",
             "initiative": "38",
-            "cardno": "RM-031"
+            "cardno": "031"
         },
         {
             "name": "heartripper",
@@ -16100,7 +16100,7 @@ var imageIds = {
             "xws": "heartripper",
             "level": "8",
             "initiative": "90",
-            "cardno": "RM-030"
+            "cardno": "030"
         },
         {
             "name": "devour whole",
@@ -16110,7 +16110,7 @@ var imageIds = {
             "xws": "devourwhole",
             "level": "8",
             "initiative": "69",
-            "cardno": "RM-029"
+            "cardno": "029"
         },
         {
             "name": "survival instincts",
@@ -16120,7 +16120,7 @@ var imageIds = {
             "xws": "survivalinstincts",
             "level": "7",
             "initiative": "13",
-            "cardno": "RM-028"
+            "cardno": "028"
         },
         {
             "name": "indomitable craving",
@@ -16130,7 +16130,7 @@ var imageIds = {
             "xws": "indomitablecraving",
             "level": "7",
             "initiative": "22",
-            "cardno": "RM-027"
+            "cardno": "027"
         },
         {
             "name": "pouncing predator",
@@ -16140,7 +16140,7 @@ var imageIds = {
             "xws": "pouncingpredator",
             "level": "6",
             "initiative": "11",
-            "cardno": "RM-026"
+            "cardno": "026"
         },
         {
             "name": "corrosive spew",
@@ -16150,7 +16150,7 @@ var imageIds = {
             "xws": "corrosivespew",
             "level": "6",
             "initiative": "50",
-            "cardno": "RM-025"
+            "cardno": "025"
         },
         {
             "name": "voracious hunter",
@@ -16160,7 +16160,7 @@ var imageIds = {
             "xws": "voracioushunter",
             "level": "5",
             "initiative": "32",
-            "cardno": "RM-024"
+            "cardno": "024"
         },
         {
             "name": "rend and mutilate",
@@ -16170,7 +16170,7 @@ var imageIds = {
             "xws": "rendandmutilate",
             "level": "5",
             "initiative": "74",
-            "cardno": "RM-023"
+            "cardno": "023"
         },
         {
             "name": "lie in wait",
@@ -16180,7 +16180,7 @@ var imageIds = {
             "xws": "lieinwait",
             "level": "4",
             "initiative": "15",
-            "cardno": "RM-022"
+            "cardno": "022"
         },
         {
             "name": "ravenous roar",
@@ -16190,7 +16190,7 @@ var imageIds = {
             "xws": "ravenousroar",
             "level": "4",
             "initiative": "25",
-            "cardno": "RM-021"
+            "cardno": "021"
         },
         {
             "name": "ferocious fling",
@@ -16200,7 +16200,7 @@ var imageIds = {
             "xws": "ferociousfling",
             "level": "3",
             "initiative": "86",
-            "cardno": "RM-020"
+            "cardno": "020"
         },
         {
             "name": "savage stalker",
@@ -16210,7 +16210,7 @@ var imageIds = {
             "xws": "savagestalker",
             "level": "3",
             "initiative": "20",
-            "cardno": "RM-019"
+            "cardno": "019"
         },
         {
             "name": "fatal frenzy",
@@ -16220,7 +16220,7 @@ var imageIds = {
             "xws": "fatalfrenzy",
             "level": "2",
             "initiative": "40",
-            "cardno": "RM-018"
+            "cardno": "018"
         },
         {
             "name": "slake thirst",
@@ -16230,7 +16230,7 @@ var imageIds = {
             "xws": "slakethirst",
             "level": "2",
             "initiative": "26",
-            "cardno": "RM-017"
+            "cardno": "017"
         },
         {
             "name": "seize",
@@ -16240,7 +16240,7 @@ var imageIds = {
             "xws": "seize",
             "level": "X",
             "initiative": "29",
-            "cardno": "RM-016"
+            "cardno": "016"
         },
         {
             "name": "scrape and scrounge",
@@ -16250,7 +16250,7 @@ var imageIds = {
             "xws": "scrapeandscrounge",
             "level": "X",
             "initiative": "24",
-            "cardno": "RM-015"
+            "cardno": "015"
         },
         {
             "name": "cornered animal",
@@ -16260,7 +16260,7 @@ var imageIds = {
             "xws": "corneredanimal",
             "level": "X",
             "initiative": "12",
-            "cardno": "RM-014"
+            "cardno": "014"
         },
         {
             "name": "terrifying howl",
@@ -16270,7 +16270,7 @@ var imageIds = {
             "xws": "terrifyinghowl",
             "level": "1",
             "initiative": "22",
-            "cardno": "RM-013"
+            "cardno": "013"
         },
         {
             "name": "strip the flesh",
@@ -16280,7 +16280,7 @@ var imageIds = {
             "xws": "striptheflesh",
             "level": "1",
             "initiative": "17",
-            "cardno": "RM-012"
+            "cardno": "012"
         },
         {
             "name": "reckless attack",
@@ -16290,7 +16290,7 @@ var imageIds = {
             "xws": "recklessattack",
             "level": "1",
             "initiative": "65",
-            "cardno": "RM-011"
+            "cardno": "011"
         },
         {
             "name": "nourishing meal",
@@ -16300,7 +16300,7 @@ var imageIds = {
             "xws": "nourishingmeal",
             "level": "1",
             "initiative": "83",
-            "cardno": "RM-010"
+            "cardno": "010"
         },
         {
             "name": "fight or flight",
@@ -16310,7 +16310,7 @@ var imageIds = {
             "xws": "fightorflight",
             "level": "1",
             "initiative": "35",
-            "cardno": "RM-009"
+            "cardno": "009"
         },
         {
             "name": "feral lunge",
@@ -16320,7 +16320,7 @@ var imageIds = {
             "xws": "ferallunge",
             "level": "1",
             "initiative": "31",
-            "cardno": "RM-008"
+            "cardno": "008"
         },
         {
             "name": "feast of flesh",
@@ -16330,7 +16330,7 @@ var imageIds = {
             "xws": "feastofflesh",
             "level": "1",
             "initiative": "73",
-            "cardno": "RM-007"
+            "cardno": "007"
         },
         {
             "name": "easy prey",
@@ -16340,7 +16340,7 @@ var imageIds = {
             "xws": "easyprey",
             "level": "1",
             "initiative": "55",
-            "cardno": "RM-006"
+            "cardno": "006"
         },
         {
             "name": "caustic claws",
@@ -16350,7 +16350,7 @@ var imageIds = {
             "xws": "causticclaws",
             "level": "1",
             "initiative": "78",
-            "cardno": "RM-005"
+            "cardno": "005"
         },
         {
             "name": "burning bile",
@@ -16360,7 +16360,7 @@ var imageIds = {
             "xws": "burningbile",
             "level": "1",
             "initiative": "45",
-            "cardno": "RM-004"
+            "cardno": "004"
         },
         {
             "name": "berserk barrage",
@@ -16370,7 +16370,7 @@ var imageIds = {
             "xws": "berserkbarrage",
             "level": "1",
             "initiative": "53",
-            "cardno": "RM-003"
+            "cardno": "003"
         },
         {
             "name": "rm-back",

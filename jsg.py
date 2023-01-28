@@ -41,9 +41,12 @@ for card in character_ability_cards:
 for char in new_character_ability_cards:
     new_character_ability_cards[char] = sorted(new_character_ability_cards[char], key=lambda d: d['cardno'], reverse=True) 
 
-
 for char in new_character_ability_cards:
-    card_ids = [card['cardno'][-3:] for card in new_character_ability_cards[char] if card['cardno'][-3:].isnumeric()]
+    
+    for card in new_character_ability_cards[char]:
+        card['cardno'] = card['cardno'][-3:]
+        
+    card_ids = [card['cardno']for card in new_character_ability_cards[char] if card['cardno'].isnumeric()]
     id_start = min(card_ids)
     id_stop = max(card_ids)
     class_data.loc[class_data.code == char, ['id_start', 'id_stop']] = id_start, id_stop
