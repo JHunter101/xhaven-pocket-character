@@ -1,11 +1,14 @@
 html * {
-	font-family: Monospace, sans-serif;
-	!important;
+	font-family: Monospace, sans-serif;!important;
+}
+
+h1, h3{
+text-align: center;	
 }
 
 /* general */
 .section {
-	padding: 2% 10%;
+	padding: 1% 10%;
 	margin-bottom: 0;
 }
 
@@ -96,10 +99,15 @@ form {
      margin-right: 1em;
 }
 
+#import-input{
+	resize: none;
+	white-space: nowrap;
+}
 
- @media (max-width: 1000px) {
+
+ @media (max-width: 700px) {
     .section {
-         padding: 5%;
+         padding: 2% 5%;
     }
      #air {
          padding: 2% 0;
