@@ -1,58 +1,58 @@
 code,name,race,icon,version,id_start,id_stop,max_cards,base_hp,hp_growth,Unnamed: 10,Unnamed: 11,Unnamed: 12,desc
-AA,Amber Aegis,Harrower,Beetle,crimson-scales,003,032,11.0,,,,,,
-BK,Brightspark,Human,Flask,crimson-scales,029,058,11.0,,,,,,
 BM,Bombard,Quatryl,Target,crimson-scales,001,028,9.0,,,,,,
+AA,Amber Aegis,Harrower,Beetle,crimson-scales,003,032,11.0,,,,,,
+RM,Ruinmaw,Vermling,Bleeding Claw,crimson-scales,003,032,11.0,8.0,1.5,,,,
+QA,Artificer,Quatryl,Tools,crimson-scales,003,030,9.0,,,,,,
+BK,Brightspark,Human,Flask,crimson-scales,029,058,11.0,,,,,,
 CG,Chainguard,Inox,Chainguard,crimson-scales,059,087,10.0,,,,,,
 CT,Chieftain,Orchid,Tusks,crimson-scales,088,116,10.0,,,,,,
 FK,Fire Knight,Valrath,Ladder Axe,crimson-scales,117,145,10.0,,,,,,
-HO,Hollowpact,Savvas,Vortex,crimson-scales,184,212,10.0,,,,,,
 HP,Hierophant,Human,Leaf,crimson-scales,146,183,11.0,,,,,,
+HO,Hollowpact,Savvas,Vortex,crimson-scales,184,212,10.0,,,,,,
 LU,Luminary,Lurker,Cresent Sun,crimson-scales,213,242,11.0,,,,,,
 MF,Mirefoot,Quatryl,Sprig,crimson-scales,243,271,10.0,,,,,,
-RM,Ruinmaw,Vermling,Bleeding Claw,crimson-scales,003,032,11.0,8.0,1.5,,,,
 SP,Spirit Caller,Vermling,Skull,crimson-scales,272,300,10.0,,,,,,
 ST,Starslinger,Aesther,Galaxy,crimson-scales,301,329,10.0,,,,,,
-QA,Artificer,Quatryl,Tools,crimson-scales,003,030,9.0,,,,,,
-DR,Diviner,Aesther,,forgotten-circles,574,601,,,,,,,
-BB,Blink Blade,Quatryl,,frosthaven,032,060,,,,,,,A complex character who uses a system of tokens to move different speeds and use crowd control and deal damage on some rounds while be less effective on others.
+DR,Diviner,Aesther,,forgotten-circles,574,601,9.0,,,,,,
+DF,Drifter,Inox,,frosthaven,001,031,12.0,,,,,,A jack of all trades who manipulates persistent multi-use tracks on their loss cards to empower various abilities.
+BB,Blink Blade,Quatryl,,frosthaven,032,060,10.0,,,,,,A complex character who uses a system of tokens to move different speeds and use crowd control and deal damage on some rounds while be less effective on others.
 BN,Banner Spear,Human,,frosthaven,061,089,10.0,8.0,2.0,,,,A tanky damage dealer who works with allies in special formation area attacks that require allies in order to work.
+DW,Deathwalker,Valrath,,frosthaven,090,119,11.0,,,,,,A damage dealer who uses placed shadow tokens resulting from enemy deaths to do strong damage and movement effects.
 BO,Boneshaper,Aesther,,frosthaven,120,150,12.0,5.0,1.0,,,,A summon-based character with non-loss summons that cost HP.
-DF,Drifter,Inox,,frosthaven,001,031,,,,,,,A jack of all trades who manipulates persistent multi-use tracks on their loss cards to empower various abilities.
-DW,Deathwalker,Valrath,,frosthaven,090,119,,,,,,,A damage dealer who uses placed shadow tokens resulting from enemy deaths to do strong damage and movement effects.
 GE,Geminate,Harrower,,frosthaven,151,184,14.0,7.0,1.5,,,,"An area attacker with two forms, each with their own separate hands; one melee-focused and one ranged-focus, who swap between them by playing specific effects"
-CR,,,,frosthaven,474,504,,,,,,,
-DT,,,,frosthaven,445,473,,,,,,,
-FF,,,,frosthaven,360,386,,,,,,,
-HV,,,,frosthaven,387,416,,,,,,,
-IF,,,,frosthaven,185,214,,,,,,,
-ME,,,,frosthaven,417,444,,,,,,,
-PC,,,,frosthaven,301,329,,,,,,,
-PY,,,,frosthaven,215,243,,,,,,,
-SD,,,,frosthaven,330,359,,,,,,,
-SH,,,,frosthaven,244,272,,,,,,,
-TA,,,,frosthaven,273,300,,,,,,,
-BE,Berserker,Inox,Lightning Bolt,gloomhaven,319,347,10.0,8.0,2.0,,,,
+IF,,,Astral,frosthaven,185,214,,,,,,,
+PY,,,Meteor,frosthaven,215,243,,,,,,,
+SH,,,Shards,frosthaven,244,272,,,,,,,
+TA,,,Trap,frosthaven,273,300,,,,,,,
+PC,,,Shackles,frosthaven,301,329,,,,,,,
+SD,,,Snowflake,frosthaven,330,359,,,,,,,
+FF,,,Fist,frosthaven,360,386,,,,,,,
+HV,,,Prism,frosthaven,387,416,,,,,,,
+ME,,,Drill,frosthaven,417,444,,,,,,,
+DT,,,Kelp,frosthaven,445,473,,,,,,,
+CR,,,Coral,frosthaven,474,504,,,,,,,
 BR,Brute,Inox,,gloomhaven,001,029,10.0,8.0,2.0,,,,A very simple tanky class who has a minor specialization in movement.
-BS,,,,gloomhaven,624,653,,,,,,,
-BT,The Beast Tyrant,,Two-Mini,gloomhaven,476,505,10.0,5.0,1.0,,,,
+TI,Tinkerer,Quatryl,,gloomhaven,030,060,12.0,6.5,1.5,,,,A healing-based support who can play losses to make up for his shortcomings in terms of damage.
+SW,Spellweaver,Orchid,,gloomhaven,061,087,8.0,5.0,1.0,,,,A somewhat complex ranged area attacker with a unique stamina system that allows her to play losses more freely.
+SC,Scoundrel,Human,,gloomhaven,088,89,9.0,6.5,1.5,,,,A high damage melee attacker who specializes in moving in and out of melee while gaining benefits from adjacent allies.
 CH,Cragheart,Savvas,,gloomhaven,116,145,11.0,8.0,2.0,,,,A jack of all trades with a focus on area damage and obstacle use.
-DS,Doomstalker,Orchid,Angry Face,gloomhaven,376,406,12.0,6.5,1.5,,,,
-EL,Elementalist,Savvas,Triforce,gloomhaven,447,475,10.0,5.0,1.0,,,,
 MT,Mindthief,Vermling,,gloomhaven,146,174,10.0,5.0,1.0,,,,A fairly complex melee attacker with a unique augment system who can use crowd control abilities to disable enemies.
+SK,Sunkeeper,Valrath,Sun,gloomhaven,175,204,11.0,8.0,2.0,,,,
+QM,Quartermaster,Valrath,Three Spears,gloomhaven,205,232,9.0,8.0,2.0,,,,
+SU,Summoner,Aesther,Circles,gloomhaven,233,260,9.0,6.5,1.5,,,,
 NS,Nightshroud,Aesther,Eclipse,gloomhaven,261,288,9.0,6.5,1.5,,,,
 PH,Plagueherald,Harrower,Cthulhu,gloomhaven,289,318,11.0,5.0,1.0,,,,
-QM,Quartermaster,Valrath,Three Spears,gloomhaven,205,232,9.0,8.0,2.0,,,,
-SC,Scoundrel,Human,,gloomhaven,088,89,9.0,6.5,1.5,,,,A high damage melee attacker who specializes in moving in and out of melee while gaining benefits from adjacent allies.
-SK,Sunkeeper,Valrath,Sun,gloomhaven,175,204,11.0,8.0,2.0,,,,
-SB,Sawbones,Human,Saw,gloomhaven,407,446,10.0,6.5,1.5,,,,
+BE,Berserker,Inox,Lightning Bolt,gloomhaven,319,347,10.0,8.0,2.0,,,,
 SS,Soothsinger,Quatryl,Music Note,gloomhaven,348,375,9.0,5.0,1.0,,,,
-SU,Summoner,Aesther,Circles,gloomhaven,233,260,9.0,6.5,1.5,,,,
-SW,Spellweaver,Orchid,,gloomhaven,061,087,8.0,5.0,1.0,,,,A somewhat complex ranged area attacker with a unique stamina system that allows her to play losses more freely.
-TI,Tinkerer,Quatryl,,gloomhaven,030,060,12.0,6.5,1.5,,,,A healing-based support who can play losses to make up for his shortcomings in terms of damage.
-DE,Demolitionist,Quatryl,,jaws-of-the-lion,073,109,,,,,,,A melee attacker who destroys obstacles for various attacks.
-HA,Hatchet,Inox,,jaws-of-the-lion,001,038,,,,,,,"A ranged attacker who uses their favorite hatchet to do massive damage, but must retrieve it thereafter."
-RG,Red Guard,Valrath,,jaws-of-the-lion,215,252,,,,,,,A light- and fire-base tank class who can use a specific card to let their shield cards output damage.
-VW,Voidwarden,Human,,jaws-of-the-lion,142,180,,,,,,,An element-based control mage who can force enemies to act or grant their allies actions or other benefits.
+DS,Doomstalker,Orchid,Angry Face,gloomhaven,376,406,12.0,6.5,1.5,,,,
+SB,Sawbones,Human,Saw,gloomhaven,407,446,10.0,6.5,1.5,,,,
+EL,Elementalist,Savvas,Triforce,gloomhaven,447,475,10.0,5.0,1.0,,,,
+BT,The Beast Tyrant,,Two-Mini,gloomhaven,476,505,10.0,5.0,1.0,,,,
+BS,Bladeswarm,Harrower,,gloomhaven,624,653,11.0,,,,,,
+HA,Hatchet,Inox,,jaws-of-the-lion,001,038,10.0,,,,,,"A ranged attacker who uses their favorite hatchet to do massive damage, but must retrieve it thereafter."
+DE,Demolitionist,Quatryl,,jaws-of-the-lion,073,109,9.0,,,,,,A melee attacker who destroys obstacles for various attacks.
+VW,Voidwarden,Human,,jaws-of-the-lion,142,180,11.0,,,,,,An element-based control mage who can force enemies to act or grant their allies actions or other benefits.
+RG,Red Guard,Valrath,,jaws-of-the-lion,215,252,10.0,,,,,,A light- and fire-base tank class who can use a specific card to let their shield cards output damage.
 IN,Incarnate,Inox,Three-Eyes,trail-of-ashes,488,517,11.0,,,,,,
 RH,Rimehearth,Savvas,Ice Meteor,trail-of-ashes,519,547,10.0,,,,,,
 SR,Shardrender,Orchid,Gemstone,trail-of-ashes,549,578,11.0,,,,,,

@@ -1,5 +1,6 @@
 window.onload = function() {
 	// Add event listeners for character name input and export/import buttons
+	const maxCards = 0;
 	const exportBtn = document.querySelector('#export-btn');
 	const importBtn = document.querySelector('#import-btn');
 	const gridImages = document.querySelectorAll('.grid-item');
@@ -20,7 +21,7 @@ window.onload = function() {
 		const class_info = class_data[classCode];
 		const opt = document.createElement("option");
 		opt.value = class_info.code
-		opt.innerHTML = "[" + class_info.version + "] " + class_info.name + " (" + class_info.name + ")"
+		opt.innerHTML = "[" + class_info.version + "] " + class_info.race + ' ' + class_info.name + " (" + class_info.icon + ")"
 		opt.id =
 			document.getElementById("character-name").appendChild(opt);
 	}
@@ -28,7 +29,6 @@ window.onload = function() {
 // Function to handle image selection
 function handleImageSelection(event) {
 	const selectedImages = document.getElementsByClassName('selected').length
-	const maxCards = 10;
 	if (event.target.classList.contains('selected')) {
 		event.target.classList.remove('selected');
 	} else {
@@ -83,9 +83,12 @@ function handleImportClick() {
 
 function resetSelected() {
 	// Select all elements with class 'selected'
+	const characterNameInput = document.getElementById('character-name');
 	const selectedImages = document.querySelectorAll('.selected');
 	// Remove the 'selected' class from each element
 	selectedImages.forEach(img => img.classList.remove('selected'));
+	
+	maxCards = class_data[characterNameInput.value]['max_cards']
 }
 
 function refindImages() {

@@ -49,10 +49,12 @@ for char in new_character_ability_cards:
     class_data.loc[class_data.code == char, ['id_start', 'id_stop']] = id_start, id_stop
     
 class_data.to_csv('class_data.csv', index = False)
-parsed = json.loads(class_data.to_json(orient="index"))
+class_data_json = class_data.to_dict(orient="index")
+class_data_json = {value['code']: value for key, value in class_data_json.items()}
+    
 js_file = os.path.join(js_dir, "class-data.js")
 with open(js_file, "w") as f:
-    f.write("var class_data = " + json.dumps(parsed,indent=4) + ";")
+    f.write("var class_data = " + json.dumps(class_data_json,indent=4) + ";")
 
 # Write JavaScript file containing image IDs
 js_file = os.path.join(js_dir, "new-character-ability-cards.js")
