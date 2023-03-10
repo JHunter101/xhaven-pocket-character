@@ -1,7 +1,6 @@
 import os
 import json
 import pandas as pd
-import json
 import numpy as np
 
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
